@@ -5,6 +5,22 @@ description: The county government that built the region's surveillance backbone
 
 Asheville's RTIC plugs into a county system with its own accountability story.
 
+## Timeline
+
+- **Late 2021 — Schools plug in first.** Buncombe County Schools becomes the first WNC district on Fusus via a memorandum of understanding with the Sheriff's Office — roughly 1,500 cameras across 43+ schools, with no public school-board vote on record. [[Watching the Poor]]
+- **June 2022 — The RTIC pitched as "a revenue opportunity."** The Sheriff's Office presents the Real-Time Intelligence Center to county commissioners as an enterprise fund "without any cost to the tax payers" ([the presentation PDF](https://media.buncombenc.gov/common/Commissioners/20220607/Pre%20RTIC%20for%20Sheriff%20ppt-final.pdf)); Jasmine Beach-Ferrara and then-Chair Brownie Newman push back — the last commissioners ever to do so on the record. [[Timeline]]
+- **July 2022 — Commission approves $130,000** for the RTIC facility ([Citizen Times via Yahoo](https://www.yahoo.com/news/2-000-camera-network-feeding-090126108.html) · [WLOS](https://wlos.com/news/local/buncombe-county-sheriffs-office-real-time-intelligence-center-investigations-commissioners)).
+- **2022 — Black Mountain approves 5 Flock cameras** — the county's one municipal deployment with published results. [[Getting Flock Out]]
+- **2023 — Sheriff signs a 5-year, ~$2.4–2.5M Axon contract.** Whether it ever received its own commission vote is unestablished; the enterprise fund's financials have never been reported anywhere ([Citizen Times via Yahoo](https://www.yahoo.com/news/2-000-camera-network-feeding-090126108.html) · [WLOS](https://wlos.com/news/local/buncombe-county-sheriffs-office-real-time-intelligence-center-investigations-commissioners)). [[What Axon Contracts Do]]
+
+## Links of note
+
+- [June 2022 RTIC presentation deck (PDF)](https://media.buncombenc.gov/common/Commissioners/20220607/Pre%20RTIC%20for%20Sheriff%20ppt-final.pdf) — the sheriff's own "revenue opportunity" pitch
+- [Citizen Times via Yahoo](https://www.yahoo.com/news/2-000-camera-network-feeding-090126108.html) — the 2,000-camera network exposé
+- [WLOS](https://wlos.com/news/local/buncombe-county-sheriffs-office-real-time-intelligence-center-investigations-commissioners) — RTIC and commissioners coverage
+- [The 74 Million](https://www.the74million.org/article/ice-taps-into-school-security-cameras-to-aid-trumps-immigration-crackdown-74-investigation-shows/) — ICE tapping school camera networks elsewhere
+- [SeeGov](https://seegov.org/g/buncombe-county-schools-buncombe-nc) — machine transcripts of school-board meetings
+
 ## "A revenue opportunity... without any cost to the tax payers"
 
 That's how the Sheriff's Office pitched the Real-Time Intelligence Center to county commissioners in its own **June 2022 presentation deck** ([the PDF](https://media.buncombenc.gov/common/Commissioners/20220607/Pre%20RTIC%20for%20Sheriff%20ppt-final.pdf)): an *enterprise fund* — businesses paying $60/camera/year to join, partner organizations giving deputies camera access, surveillance as a self-funding product line. Two commissioners pushed back at the time — Jasmine Beach-Ferrara raised "constitutional issues... regarding public resources being used essentially for surveillance," and then-Chair Brownie Newman said the sheriff had described it to him as a *schools* program. **Both are gone from the board; no commissioner since has questioned it on the record.** The commission approved **$130,000 for the RTIC facility** (July 2022) and the Sheriff signed a **5-year, ~$2.4–2.5M Axon contract** (2023) — whether that contract ever received its own commission vote is unestablished; the enterprise fund's financials have **never been reported anywhere**. ([Citizen Times via Yahoo](https://www.yahoo.com/news/2-000-camera-network-feeding-090126108.html) · [WLOS](https://wlos.com/news/local/buncombe-county-sheriffs-office-real-time-intelligence-center-investigations-commissioners))

@@ -3,6 +3,20 @@ title: Haywood County
 description: The county that decided to keep its cameras — without ever formally voting on them in the first place.
 ---
 
+Haywood decided to keep its Flock cameras a week after Macon County tore its system out — without ever having formally voted on them in the first place.
+
+## Timeline
+
+- **2024 — Cameras go live, no vote taken.** The Sheriff's Office puts **~8–10 Flock cameras** into use; like [[Madison County]], they enter through the sheriff's operations with no formal deployment vote. [[Getting Flock Out]]
+- **FY26 budget — Maggie Valley PD buys two plate readers.** $7,300 the first year, $6,000/year after, paid from the drug-seizure account, with access to state and national LPR databases — a budget-retreat consensus, not a public-hearing item ([The Mountaineer](https://www.yahoo.com/news/articles/upgrading-maggie-police-vehicles-license-232300971.html)).
+- **July 2026 — Haywood keeps its cameras.** A week after Macon County's removal, Commission Chairman Kevin Ensley tells a reporter the county will keep them, citing falling overdose deaths and "no complaints" — a chairman's statement, not a vote ([WLOS, July 21, 2026](https://wlos.com/news/local/haywood-county-keep-flock-safety-cameras-macon-county-removes-system-ai-powered-camera-license-plate-reader-automatic-artificial-intelligence-western-north-carolina)). [[How Cities Won]]
+
+## Links of note
+
+- [WLOS, July 21, 2026](https://wlos.com/news/local/haywood-county-keep-flock-safety-cameras-macon-county-removes-system-ai-powered-camera-license-plate-reader-automatic-artificial-intelligence-western-north-carolina) — the keep-the-cameras announcement
+- [The Mountaineer](https://www.yahoo.com/news/articles/upgrading-maggie-police-vehicles-license-232300971.html) — Maggie Valley's drug-seizure-funded plate readers
+- [Haywood County agendas, minutes, and videos](https://www.haywoodcountync.gov/712/Agendas-Minutes-Videos) — the official record
+
 ## Status: keeping Flock, on an overdose-reduction claim
 
 A week after Macon County removed its cameras, Haywood announced it would keep its **~8–10 Flock cameras** (in use since 2024, run by the Sheriff's Office). Commission Chairman **Kevin Ensley's** stated reason: overdose deaths fell "in the thirties... last year we only had ten," and the county has received "no complaints." ([WLOS, July 21, 2026](https://wlos.com/news/local/haywood-county-keep-flock-safety-cameras-macon-county-removes-system-ai-powered-camera-license-plate-reader-automatic-artificial-intelligence-western-north-carolina))
