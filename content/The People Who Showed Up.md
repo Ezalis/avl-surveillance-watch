@@ -1,17 +1,17 @@
 ---
 title: "The People Who Showed Up"
-description: "The residents who stood at the podium and told council no — their best arguments, in their own words, on the public record."
+description: "The residents who stood at the podium and told council no: their best arguments, in their own words, on the public record."
 ---
 
-Between January 2025 and May 2026, across nine public meetings, 36 Asheville residents stood at the podium or called in to speak on the record about the city's surveillance buildout — and five more signed up just to cede their time so a neighbor could finish an argument. All but one spoke in opposition. On May 12, 2026, the night council voted on the Real-Time Intelligence Center, 23 residents spoke after waiting through a six-hour agenda; 22 of them said no. Council passed both items 6–1 anyway.
+Between January 2025 and May 2026, across nine public meetings, 36 Asheville residents stood at the podium or called in to speak on the record about the city's surveillance buildout, and five more signed up just to cede their time so a neighbor could finish an argument. All but one spoke in opposition. On May 12, 2026, the night council voted on the Real-Time Intelligence Center, 23 residents spoke after waiting through a six-hour agenda; 22 of them said no. Council passed both items 6–1 anyway.
 
-The vote doesn't erase the record. The record shows lawyers, security engineers, ministers, veterans, moms, public-housing staff, and people attending their first-ever council meeting making the case against mass surveillance — carefully, specifically, and repeatedly. This page collects their strongest arguments so future speakers can build on them, and so everyone who spoke knows: it was heard, it was preserved, and you are not alone.
+The vote doesn't erase the record. The record shows lawyers, security engineers, ministers, veterans, moms, public-housing staff, and people attending their first-ever council meeting making the case against mass surveillance, carefully, specifically, and repeatedly. This page collects their strongest arguments so future speakers can build on them, and so everyone who spoke knows: it was heard, it was preserved, and you are not alone.
 
 Every quote below is transcribed from the city's meeting videos and linked to its timestamp. Names appear as given at the podium; the city's captions are auto-generated, so spellings follow the meeting record as best it renders them. Auto-caption punctuation has been added and obvious caption misspellings of product names (e.g., "Fusus") normalized; wording is otherwise verbatim.
 
 ## "If you pass this, ICE will come"
 
-The earliest and most persistent argument: surveillance infrastructure built for one purpose will be used against Asheville's most vulnerable neighbors — and no local policy can stop it once the data leaves town.
+The earliest and most persistent argument: surveillance infrastructure built for one purpose will be used against Asheville's most vulnerable neighbors, and no local policy can stop it once the data leaves town.
 
 > "I am the son of two Mexican-American immigrants. I am a veteran, and frankly, I am terrified. … I came here to ask a very scary question: what are you going to do? … I said then that the same people who put cameras on the wall in Gaza put cameras on the walls in the southern border. … What are you going to do?"
 > — Anthony Mahia, January 14, 2025 ([3:13:08](https://www.youtube.com/watch?v=rW6a8D3jXKU&t=11588s))
@@ -27,7 +27,7 @@ The earliest and most persistent argument: surveillance infrastructure built for
 
 ## "A significant threat to our constitutional and civil rights"
 
-Residents didn't just invoke the Constitution — they explained, precisely, why it won't protect anyone here.
+Residents didn't just invoke the Constitution: they explained, precisely, why it won't protect anyone here.
 
 > "The item before you has an enormous number of constitutional challenges … it's the Fourth Amendment and the Fourteenth Amendment, and it talks about unreasonable searches and seizures. … I want this council to be a little brave."
 > — Curry First, March 25, 2025 ([20:26](https://www.youtube.com/watch?v=Bc-VVlvBx0U&t=1226s))
@@ -41,7 +41,7 @@ Residents didn't just invoke the Constitution — they explained, precisely, why
 > "I just don't believe that it won't be accessible to federal organizations. … It could be used to locate undocumented people or indeed people who hold residential status, green card status, and are in danger of having that revoked. I'm worried that it would be used to track people seeking feminine healthcare, because we just don't know what's going to happen."
 > — Molly Rickert, March 25, 2025 ([23:37](https://www.youtube.com/watch?v=Bc-VVlvBx0U&t=1417s))
 
-Molly Rickert said this in March 2025 — more than a year before the RTIC vote, and months before most of the city had heard the words "real-time intelligence center." [[Who Gets Watched]] documents everything she predicted coming true.
+Molly Rickert said this in March 2025, more than a year before the RTIC vote, and months before most of the city had heard the words "real-time intelligence center." [[Who Gets Watched]] documents everything she predicted coming true.
 
 ## "We, the people of Asheville, were the product"
 
@@ -69,7 +69,7 @@ Council voted to authorize a seven-and-a-half-year vendor commitment [[2026-05-0
 > "[Reading the Flock contract, section 5.3:] 'Flock may disclose the footage to law enforcement authorities, government officials, and/or third parties … if Flock has a good faith belief that disclosure is reasonably necessary to detect, prevent, or otherwise address security, privacy, fraud, technical issues, emergency situations' — you can drive a truck through this."
 > — Jessica Myers, May 12, 2026 ([6:04:46](https://www.youtube.com/watch?v=AfdrH-a92As&t=21886s))
 
-She also offered the record's most counterintuitive insight — that inefficiency is a civil-liberties feature: "There is a reason that IRS didn't talk to housing … That's so inefficient on purpose. Law enforcement doesn't need to run at the speed of light. That's how mistakes are made." ([6:10:11](https://www.youtube.com/watch?v=AfdrH-a92As&t=22211s))
+She also offered the record's most counterintuitive insight, that inefficiency is a civil-liberties feature: "There is a reason that IRS didn't talk to housing … That's so inefficient on purpose. Law enforcement doesn't need to run at the speed of light. That's how mistakes are made." ([6:10:11](https://www.youtube.com/watch?v=AfdrH-a92As&t=22211s))
 
 > "I am upset that there is no contract with Axon at this moment, and I think that the city council should not be voting on this item if there is not a contract present. … I know your names. I vote in every election."
 > — Lyndon Blazes, May 12, 2026 ([5:38:14](https://www.youtube.com/watch?v=AfdrH-a92As&t=20294s))
@@ -125,7 +125,7 @@ Speaker after speaker made the same affirmative case: safety is built from the b
 
 ## "Who are you listening to?"
 
-The process itself became evidence. A $1.1 million surveillance expansion first appeared on a consent agenda. On decision night, the public got one hour, two minutes each, after a six-hour wait — while the interim chief and two vendor representatives flown in for the occasion got the afternoon. Ann Craig put the obvious question on the record: "Since there is no deadline to accept this grant … I ask you, what is the urgency here?" ([5:43:38](https://www.youtube.com/watch?v=AfdrH-a92As&t=20618s))
+The process itself became evidence. A $1.1 million surveillance expansion first appeared on a consent agenda. On decision night, the public got one hour, two minutes each, after a six-hour wait, while the interim chief and two vendor representatives flown in for the occasion got the afternoon. Ann Craig put the obvious question on the record: "Since there is no deadline to accept this grant … I ask you, what is the urgency here?" ([5:43:38](https://www.youtube.com/watch?v=AfdrH-a92As&t=20618s))
 
 > "It seems like y'all buried this $1.1 million expansion of police surveillance in jargon, calling it a real-time intelligence center. But let's call it what it actually is. … Burying this in the consent agenda was a deliberate choice."
 > — Jen Hampton, April 14, 2026 ([2:25:52](https://www.youtube.com/watch?v=QHT2NetBNmI&t=8752s))
@@ -139,7 +139,7 @@ The process itself became evidence. A $1.1 million surveillance expansion first 
 > "I have a simple question. Who are you listening to? Asheville and its people this affects daily, or the big company selling the Panopticon like a regular Tuesday?"
 > — Andreas Elder, May 12, 2026 ([6:18:21](https://www.youtube.com/watch?v=AfdrH-a92As&t=22701s))
 
-Two weeks after the vote, Nina Tovish came back to ask council to open its private briefings to the public — because "sometimes angels dwell among the minutia," and a citizen might spot what council misses. ([May 26, 2026, 2:15:43](https://www.youtube.com/watch?v=Ve1dEYMm6o0&t=8143s))
+Two weeks after the vote, Nina Tovish came back to ask council to open its private briefings to the public, because "sometimes angels dwell among the minutia," and a citizen might spot what council misses. ([May 26, 2026, 2:15:43](https://www.youtube.com/watch?v=Ve1dEYMm6o0&t=8143s))
 
 ## Coda
 
@@ -148,11 +148,11 @@ Ben Spencer attended the afternoon committee meeting on April 28, then came to t
 > "Have you all seen Star Wars? Don't take federal grant money for the Death Star, please. … As brevity is the soul of wit, I will summarize the best single thing that was said there [by the interim police chief, in her own presentation that night]: **public safety cannot come at the expense of community values.**"
 > — Ben Spencer, May 12, 2026 ([6:18:50](https://www.youtube.com/watch?v=AfdrH-a92As&t=22730s))
 
-He was quoting Chief [[Jackie Stepp]] back to the council — her exact words at [4:34:29](https://www.youtube.com/watch?v=AfdrH-a92As&t=16469s) that same night were "public safety **should** not come at the expense of community values"; Spencer's rendering sharpened *should* to *cannot*. Either way: hold the city to it.
+He was quoting Chief [[Jackie Stepp]] back to the council: her exact words at [4:34:29](https://www.youtube.com/watch?v=AfdrH-a92As&t=16469s) that same night were "public safety **should** not come at the expense of community values"; Spencer's rendering sharpened *should* to *cannot*. Either way: hold the city to it.
 
 ## Add your voice
 
-The vote on May 12 was not the end. Contracts get renewed, budgets get amended, and every argument on this page is still true. The people above showed that two minutes at a podium becomes a permanent public record — one that other cities' residents, journalists, and future councils can build on.
+The vote on May 12 was not the end. Contracts get renewed, budgets get amended, and every argument on this page is still true. The people above showed that two minutes at a podium becomes a permanent public record, one that other cities' residents, journalists, and future councils can build on.
 
 You can be next: [[Speak at Council]].
 
@@ -167,9 +167,9 @@ You can be next: [[Speak at Council]].
 | Feb 24, 2026 | Regular City Council | [youtube.com/watch?v=xz7FrFLV1U8](https://www.youtube.com/watch?v=xz7FrFLV1U8) |
 | Apr 14, 2026 | Regular City Council ($1.1M RTIC item pulled from consent) | [youtube.com/watch?v=QHT2NetBNmI](https://www.youtube.com/watch?v=QHT2NetBNmI) |
 | Apr 28, 2026 | Regular City Council ([[2026-04-28 Work Session|committee met that afternoon]]) | [youtube.com/watch?v=BtV1NRZCV0k](https://www.youtube.com/watch?v=BtV1NRZCV0k) |
-| May 12, 2026 | Regular City Council — [[2026-05-12 City Council|**the RTIC vote**]] (both items passed 6–1) | [youtube.com/watch?v=AfdrH-a92As](https://www.youtube.com/watch?v=AfdrH-a92As) |
+| May 12, 2026 | Regular City Council: [[2026-05-12 City Council|**the RTIC vote**]] (both items passed 6–1) | [youtube.com/watch?v=AfdrH-a92As](https://www.youtube.com/watch?v=AfdrH-a92As) |
 | May 26, 2026 | Regular City Council / budget hearing | [youtube.com/watch?v=Ve1dEYMm6o0](https://www.youtube.com/watch?v=Ve1dEYMm6o0) |
 
-*Spot an error in a name or quote? Every entry links to the video — tell me and I'll fix it. That's the standard this page holds council to, so it's the standard I hold myself to.*
+*Spot an error in a name or quote? Every entry links to the video; tell me and I'll fix it. That's the standard this page holds council to, so it's the standard I hold myself to.*
 
 *Related: [[Speak at Council]] · [[2026-05-12 City Council]] · [[Who Gets Watched]] · [[Get Involved]]*

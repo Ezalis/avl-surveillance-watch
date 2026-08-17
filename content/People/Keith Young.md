@@ -6,7 +6,7 @@ description: Former council member seeking a return; the only council candidate 
 **Title:** Candidate for Asheville City Council · former Asheville City Council member (Dec 2015–Dec 2020) · author of the July 2020 reparations resolution
 **In this role since:** —
 **Current term ends:** —
-**Next voter decision:** **Nov 3, 2026** — City Council general; advanced from the March 3 primary (~6%) · [[Election 2026]]
+**Next voter decision:** **Nov 3, 2026**: City Council general; advanced from the March 3 primary (~6%) · [[Election 2026]]
 
 ## Surveillance record
 
@@ -16,7 +16,7 @@ No votes on the current buildout (he left council before it). But Young is **the
 - Ensure local government "is not feeding a pipeline into enforcement through data, technology, or informal collaboration"
 - "Strong privacy and data minimization rules"; nonpublic records "not accessed without a proper judicial warrant"
 
-Read those against the RTIC's design — a 500-mile data-sharing radius, informal inter-agency lookups as the documented ICE pathway ([[The National Wave]]) — and his language describes the problem almost exactly. **He has never named the RTIC, Fusus, or Flock.** His [Chamber survey](https://www.ashevillechamber.org/news-events/2026-city-council-candidate-survey-keith-young/) frames public safety as staffing and response times.
+Read those against the RTIC's design, with its 500-mile data-sharing radius and informal inter-agency lookups as the documented ICE pathway ([[The National Wave]]), and his language describes the problem almost exactly. **He has never named the RTIC, Fusus, or Flock.** His [Chamber survey](https://www.ashevillechamber.org/news-events/2026-city-council-candidate-survey-keith-young/) frames public safety as staffing and response times.
 
 ## The question for him
 
