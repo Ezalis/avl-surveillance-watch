@@ -1,20 +1,49 @@
 ---
 title: Promise Tracker
-description: Every commitment APD and the city have made about the RTIC, on the record — and whether it holds.
+description: Every commitment APD and the city made to get the RTIC approved — tracked to 2033.
 ---
 
-The RTIC was sold on promises. None of them is enforceable by ordinance or contract — they are policies APD wrote and APD can change. So we track them.
+The RTIC was sold on promises. Not one is enforceable: no ordinance requires them, the contract wasn't public when council voted, and every safeguard is a policy APD wrote and APD can rewrite. So this page does what the city didn't build a mechanism for — it remembers, and it checks.
 
-| Promise | Who / when | Status |
-|---|---|---|
-| No facial recognition | Interim Chief Stepp, on record repeatedly, spring 2026 | ⏳ Untested — and **no ban exists** |
-| No data to ICE / federal agencies without a court order | Deputy Chief Aardema, May 12, 2026 | ⏳ Untested |
-| Search-term blocks on immigration and reproductive topics | Tech Manager James Wingo, WLOS, July 8, 2026 | ⏳ Untested — self-administered keyword filters |
-| Quarterly audits of RTIC access and searches | APD, July 2026 | ⏳ First audit due — we will request it |
-| 30-day plate-reader retention (vs. 90 allowed) | APD policy | ✅ Currently policy — could change without a vote |
-| "Solely for lawful purposes" | Council resolution (Hess), May 12, 2026 | ⚠️ Aspirational — no enforcement mechanism |
-| Data owned by the city, not vendors | Interim Chief Stepp, April 2026 | ⏳ Unverifiable until the contract is public |
+The contract runs to **2033**. The center goes fully operational **spring/summer 2027**. This page is the long game.
 
-**The pattern nationally:** identical promises preceded [[The National Wave|ICE lookups, abortion searches, and stalking cases]] in dozens of cities. Promises without enforcement mechanisms are marketing.
+## The ledger
 
-**What would make them real:** a CCOPS-style ordinance — surveillance tech requires council approval, annual public reporting, enforceable penalties. About 26 U.S. cities have one. Asheville doesn't. *Details landing this week.*
+| # | Promise | Who said it, when | Status |
+|---|---|---|---|
+| 1 | No facial recognition | Interim Chief Jackie Stepp, repeatedly, spring 2026 ([Watchdog](https://avlwatchdog.org/opinion-youre-on-camera-whether-you-like-it-or-not-but-asheville-needs-to-be-more-transparent-about-video-surveillance-proposal/)) | ⏳ Untested — and **there is no ban**. GAP asked for one; council didn't adopt it. Fusus/Axon products support it; only policy stands in the way. |
+| 2 | No data to ICE or federal agencies without a court order | Deputy Chief Shawn Aardema, May 12, 2026: "We control Axon Fusus and we will not be sharing information with federal immigration." ([WLOS](https://wlos.com/news/local/asheville-police-department-city-council-new-surveillance-technology-violent-crimes-real-time-intelligence-center-housing-authority-patrol-officers-immigration-customs-enforcement-community-members-federal-government-investigation)) | ⏳ Untested — and structurally incomplete: nationally, ICE reached identical systems through *other agencies* running searches as favors, not through direct requests. Asheville shares plate data across a 500-mile radius; the promise doesn't bind the 500-mile circle. |
+| 3 | Search-term blocks on immigration and reproductive topics | Tech Manager James Wingo, July 8, 2026: blocks on "anything to do with immigration, anything to do with reproductive issues" ([WLOS](https://wlos.com/news/news-13-investigates/inside-asheville-police-department-apd-future-real-time-intelligence-center-cameras-license-plate-readers-car-body-cams-drones-technology-investigations)) | ⏳ Untested — keyword filters, self-administered. The Texas abortion search was logged under a "missing person" pretext; a keyword block doesn't catch a dishonest reason field. |
+| 4 | Quarterly audits of RTIC access and searches | APD, July 2026 ([WLOS](https://wlos.com/news/news-13-investigates/inside-asheville-police-department-apd-future-real-time-intelligence-center-cameras-license-plate-readers-car-body-cams-drones-technology-investigations)) | ⏳ **First audit window closes ~Oct 2026.** Internal, with no commitment to publish. We will request it — and CAMS is campaigning to make the logs public. |
+| 5 | 30-day plate-reader retention (state law allows 90) | APD policy ([Watchdog](https://avlwatchdog.org/opinion-youre-on-camera-whether-you-like-it-or-not-but-asheville-needs-to-be-more-transparent-about-video-surveillance-proposal/)) | ✅ Current policy — revisable without a council vote. Note: **Flock's own recommended default is now 7 days** (Aug 2026). Why is Asheville at 4× the vendor's recommendation? |
+| 6 | Tech used "solely for lawful purposes… to enhance or provide for public safety" | Council resolution attached by Bo Hess, May 12, 2026 ([BPR](https://www.bpr.org/politics-government/2026-05-13/asheville-council-accepts-police-tech-funding-hears-budget-proposal)) | ⚠️ Aspirational — a resolution, not an ordinance. No enforcement mechanism, no reporting duty, no penalty. "Lawful purposes" includes nearly everything. |
+| 7 | City owns all data; not shared or sold by vendors | Interim Chief Stepp, April 2026 ([Watchdog](https://avlwatchdog.org/opinion-youre-on-camera-whether-you-like-it-or-not-but-asheville-needs-to-be-more-transparent-about-video-surveillance-proposal/)) | ⏳ Unverifiable — **the executed contract has not been released.** Axon's standard terms govern; a resident expert testified customers "sign what is on the page." Release the contract and this row gets a real status. |
+| 8 | "Robust audit trail built into all of this" | Interim Chief Stepp ([Annie Dance](https://anniedance.substack.com/p/asheville-expands-regional-surveillance)) | ⏳ Partially credible — audit logs exist in these systems; they're how Charlotte's and Mooresville's abusers got caught. The question is who sees them. An audit trail nobody outside APD can read is a diary, not oversight. |
+| 9 | Public transparency via RTIC tours | APD, June 2026 ([WLOS](https://wlos.com/news/local/asheville-police-department-tours-new-real-time-intelligence-center-approved-federal-funds-social-media-transparency-privacy-public-debates-analyze-data-emergencies-register)) | ✅ Happening — every other Thursday, 2–4 PM (828-259-5881). Tours show the room, not the searches. Go, ask questions from this table, and send us what they say. |
+
+**Legend:** ✅ kept/happening · ⏳ untested or unverifiable · ⚠️ structurally empty · ❌ broken (none yet — the center isn't operational. This column is why the page exists.)
+
+## Why promises fail: the pattern
+
+Every city in [[The National Wave]] heard versions of rows 1–8. The failures didn't come from officials lying on day one — they came from **turnover, pressure, and structure**: a new chief revises a policy; a federal agency asks a favor and an officer obliges; a vendor error shares data out of state; a dishonest reason field slips past a keyword filter. Asheville's promises are held by the same thread: personnel goodwill, no law.
+
+Two local stress tests are already visible. The RTIC will be running during the **2027 protest cycles and beyond** — the same APD that tear-gassed protesters and destroyed a medic station in 2020 will hold the live feeds. And the promises' authors may not be in the building: Stepp is *interim* chief, and the mayor and three council seats are on the [[Election 2026|November ballot]].
+
+## What would make the promises real
+
+The fix has a name — **[CCOPS](https://www.aclu.org/community-control-over-police-surveillance)** (Community Control Over Police Surveillance), the ACLU model ordinance adopted in ~26 cities including San Francisco, Seattle, Boston, and Nashville-adjacent jurisdictions. The Asheville version would need:
+
+1. **Council approval, by ordinance, for every surveillance technology** — acquisition and use, with public notice and hearing first. (No more consent-agenda buildouts.)
+2. **Annual public use-and-impact reports** — searches run, purposes, sharing, violations, costs.
+3. **Published audit logs** — the quarterly audits in row 4, as public documents.
+4. **Hard rules in law, not policy:** retention caps (WA's new law says 21 days; Flock recommends 7), a facial recognition ban, no out-of-state or federal sharing absent a warrant, case numbers required for every search.
+5. **Teeth:** violations create suppression remedies and a private right of action; contract termination for vendor breach. (Evanston needed that clause; Flock reinstalled cameras after termination.)
+6. **Data ownership and exit:** the city owns all data, deletion on contract end, no vendor reuse — verified against the *released* contract, not a press conference.
+
+Neighboring precedent: Apex, NC residents have already [drafted a local ALPR governance ordinance](https://deflockapex.org/docs/apex-alpr-governance-ordinance.pdf); Washington State's [Driver Privacy Act](https://washingtonstatestandard.com/2026/03/06/automated-license-plate-reader-regulations-close-to-becoming-wa-law/) shows the statutory version.
+
+## How to use this page
+
+Quote a row number at the podium ("Promise 4 — where's the audit?"). Take it on the tour. Put it to a candidate. When a promise is tested — kept or broken — the status changes, with a source, and the change is dated. The city built a surveillance system with a long memory. So are we.
+
+*Related: [[Speak at Council]] · [[Claims Library]] · [[What Is the RTIC]]*
