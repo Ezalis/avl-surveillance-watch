@@ -16,7 +16,7 @@ Read it next to Asheville's record. This page does exactly that.
 → *Asheville:* the [[The Check-In Meetings|three-by-three private check-ins]] — unminuted small-group sessions with council before every public meeting — are this advice, industrialized. The public meeting is the performance; the persuasion happened earlier, off the record.
 
 **The governance pivot:** don't deny capability — redirect. "**Who controls the system? Who can access it? How is information used?**" Stress data is "**agency-controlled**" and sharing is "**opt-in.**"
-→ *Asheville:* Chief Stepp, May 12: "APD owns the data that we collect, and we have to agree to share that information out." Deputy Chief Aardema: "**We control** Axon Fusus." Capt. Moore: "We do not and will not share that information short of a court order." The vendor's recommended sentence structure, delivered from the dais — while the 500-mile sharing radius and the informal-favor pathway ([[The Abuse Record]]) went unmentioned, and the [[Documents|executed contract stayed unreleased]].
+→ *Asheville:* [[Jackie Stepp|Chief Stepp]] on the May 12 recording: "police department owns the information" — and to WLOS: "APD owns the data that we collect, and we have to agree to share that information out." Deputy Chief Aardema, same coverage: "**We control** Axon Fusus." Capt. Moore: "We do not and will not share that information short of a court order." The vendor's recommended sentence structure, delivered from the dais — while the 500-mile sharing radius and the informal-favor pathway ([[The Abuse Record]]) went unmentioned, and the [[Documents|executed contract stayed unreleased]].
 
 **Don't fight the label:** "**Don't avoid the concept of mass surveillance… you're not going to convince opponents that it's not.**" Pivot to governance instead.
 → *Asheville:* "A real-time intelligence center is **not a technology project. It's a public safety function**" (Stepp) — the taught reframe, nearly word for word in spirit.
@@ -30,7 +30,7 @@ Read it next to Asheville's record. This page does exactly that.
 ## The marketing phrases, traced to source
 
 - **"One pane of glass"** — Axon/Fusus's core product tagline ([their marketing](https://www.axon.com/products/axon-fusus)) — used verbatim by APD's technology manager on camera ([[2026-04-28 Work Session]]).
-- **"Force multiplier"** — standard vendor framing; APD's local variant: "We don't have officers that can stand on every corner" (Wingo). The Jackson County sheriff used "force multiplier" itself, one county west.
+- **"Force multiplier"** — standard vendor framing; APD's local variant: "We don't have officers that can stand on every corner" ([[Jimmy Wingo|Wingo]]). The Jackson County sheriff used "force multiplier" itself, one county west.
 - **"Reactive, not predictive" / "no facial recognition" / "we track cars, not people"** — Flock and Axon's standard national rebuttal set, delivered by APD in nearly every appearance.
 
 None of this proves individual insincerity. It proves something more useful: **the arguments Asheville heard were not Asheville's** — they were a vendor's national script, coached to police departments in webinars and playbooks, performed here on schedule. When you hear these phrases at the podium or in the next campaign, you now know their provenance — and so does everyone you show this page to.

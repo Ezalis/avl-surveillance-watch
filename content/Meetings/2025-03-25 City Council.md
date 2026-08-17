@@ -41,7 +41,7 @@ Roney asked the question that mattered: "do you share any concern that the data 
 
 ## The Ring-camera blueprint [(42:09)](https://www.youtube.com/watch?v=Bc-VVlvBx0U&t=2529s)
 
-APD technology specialist Jimmy Wingo, explaining private-camera integration: "whether it's businesses or **the Ring camera at your home**, it can be optioned to feed into the public's real-time intelligence center data... There's a registry, just so we know where a camera is in a city — and then there's also one where you could provide us **full viewing capability**." When Roney noted that courts elsewhere have compelled private footage, Wingo conceded: "if the court comes to your house and has a warrant for that Ring camera footage, then you would have to give it to us." Business owners weighing that "option" should read [[Before You Plug In]]; residents of properties whose landlords already opted in, [[Watching the Poor]].
+APD technology specialist [[Jimmy Wingo]], explaining private-camera integration: "whether it's businesses or **the Ring camera at your home**, it can be optioned to feed into the public's real-time intelligence center data... There's a registry, just so we know where a camera is in a city — and then there's also one where you could provide us **full viewing capability**." When Roney noted that courts elsewhere have compelled private footage, Wingo conceded: "if the court comes to your house and has a warrant for that Ring camera footage, then you would have to give it to us." Business owners weighing that "option" should read [[Before You Plug In]]; residents of properties whose landlords already opted in, [[Watching the Poor]].
 
 ## The vote [(46:18)](https://www.youtube.com/watch?v=Bc-VVlvBx0U&t=2778s)
 

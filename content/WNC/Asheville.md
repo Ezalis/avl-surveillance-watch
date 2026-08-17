@@ -7,7 +7,7 @@ Asheville is this collection's home case, documented across forty-plus pages. Th
 
 ## Timeline
 
-- **December 2022 — Fusus access begins, no vote.** APD signs an MOU with the Buncombe County Sheriff's Office for access to the county's Fusus platform — "We've had limited access since 2022," Interim Chief Stepp later confirmed ([[2026-04-28 Work Session|April 28, 2026 session, 1:01:29]]). The platform was in police hands before any elected body voted on it.
+- **December 2022 — Fusus access begins, no vote.** APD signs an MOU with the Buncombe County Sheriff's Office for access to the county's Fusus platform — "We've had limited access since 2022," [[Jackie Stepp|Interim Chief Stepp]] later confirmed ([[2026-04-28 Work Session|April 28, 2026 session, 1:01:29]]). The platform was in police hands before any elected body voted on it.
 - **January 24, 2023 — Council buys in, 4–1.** The interlocal agreement: APD access to the county's ~1,800-camera Fusus network, $30,000/year. Housing Authority director David Nash speaks in favor; the ~500 cameras in housing communities come with no resident consent process ([[Watching the Poor]]). **Kim Roney casts the lone no** — a position she will hold alone for three years. ([Mountain Xpress](https://mountainx.com/news/asheville-joins-buncombe-county-surveillance-system/))
 - **April 2024 — Mobile plate readers deployed.** LPRs go live on APD's fleet vehicles. Council is not briefed; there is no vote. ([[2025-03-07 Agenda Briefing|admitted a year later]])
 - **2024 — The earmark nobody voted for.** City staff ask U.S. Rep. Chuck Edwards to earmark federal RTIC money. Council is not informed. ([[Timeline]])

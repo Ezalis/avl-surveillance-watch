@@ -105,7 +105,7 @@ A request needs no magic words. State that you are requesting public records und
 
 ### 11. The December 2022 MOU — where it all started
 
-**To: City of Asheville and Buncombe County.** Chief Stepp: APD has had Fusus access "since 2022" under an MOU signed [[WNC/Asheville|before any council vote]].
+**To: City of Asheville and Buncombe County.** [[Jackie Stepp|Chief Stepp]]: APD has had Fusus access "since 2022" under an MOU signed [[WNC/Asheville|before any council vote]].
 
 > Under N.C.G.S. Chapter 132, I request the memorandum of understanding between APD and the Buncombe County Sheriff's Office concerning access to the Fusus platform executed in or around December 2022, all amendments, and any records reflecting City Council or county commission review of it.
 

@@ -49,8 +49,10 @@ Two of the six yes votes answer to no one until 2028. Between now and then, thei
 
 The people running the apparatus day to day were never elected to anything — worth naming, since "trust us" is the operative safeguard:
 
-- **Jackie Stepp** — Interim Police Chief since November 2025 (nine months interim and counting; a permanent pick by the city manager was expected "by the end of September" 2026). Made the 177,000-camera admission, the 19,000-camera claim, and the "not here to sway a vote" presentation. ([[Their Claims vs The Record]])
-- **D.K. Wesley** — City Manager since January 2026. Confirmed on the record that the Axon contract council authorized "[[2026-05-07 Agenda Briefing|does not exist yet]]"; now negotiates and signs it.
-- **Jimmy Wingo** — APD's civilian Law Enforcement Technology Manager: the single approval gate for outside-agency data requests, per APD's own testimony.
+| | Role | Since | Why they're here |
+|---|---|---|---|
+| [[Jackie Stepp]] | Interim Police Chief (APD's 5th chief in 11 years pending; permanent pick expected ~Sept 2026) | Nov 2025 | Sold the RTIC at five meetings — her full council argument, claim by claim with counters, is on her page. Made the 177K-camera admission *and* the 19K claim |
+| [[D.K. Wesley]] | City Manager | Jan 2026 | Confirmed the Axon contract "[[2026-05-07 Agenda Briefing|does not exist yet]]," then received sole authority to negotiate and sign it — and picks the next police chief |
+| [[Jimmy Wingo]] | APD Law Enforcement Technology Manager | unpublished | The single approval gate for outside-agency data requests, per APD's own testimony — in a role with no published bio, start date, or classification |
 
 *Profiles update as the record grows. See [[Election 2026]] for the ballot view, [[The People Who Showed Up]] for the residents' side of the record, and [[Timeline]] for the events these records come from.*

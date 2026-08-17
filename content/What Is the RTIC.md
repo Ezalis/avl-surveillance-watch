@@ -36,7 +36,7 @@ The RTIC's stated purpose is responding to violent crime. Nothing in the approve
 
 ## Who runs it
 
-APD, under Interim Chief Jackie Stepp, with quarterly *internal* audits. The center is expected fully operational **spring/summer 2027**. Public tours run every other Thursday, 2–4 PM (828-259-5881).
+APD, under [[Jackie Stepp|Interim Chief Jackie Stepp]], with quarterly *internal* audits. The center is expected fully operational **spring/summer 2027**. Public tours run every other Thursday, 2–4 PM (828-259-5881).
 
 ## Why we think you should care
 

@@ -3,11 +3,11 @@ title: "May 7, 2026: The Contract That Didn't Exist"
 description: Five days before the vote, the city manager confirmed the Axon contract council would authorize had not been written — and the "keep one Flock camera" plan was explained, on the record, as a subscription key to everyone else's cameras. Timestamped from the city's video.
 ---
 
-Five days before the [[2026-05-12 City Council|May 12 vote]], council held its agenda briefing — no public comment permitted, Mayor Manheimer and Councilmember Ullman absent, Interim Chief Stepp joining by phone. The [city's video](https://www.youtube.com/watch?v=I0PFVrO9CRQ) records three things that should have each been a headline. Captions don't label speakers (and garble names freely); attributions follow meeting context.
+Five days before the [[2026-05-12 City Council|May 12 vote]], council held its agenda briefing — no public comment permitted, Mayor Manheimer and Councilmember Ullman absent, [[Jackie Stepp|Interim Chief Stepp]] joining by phone. The [city's video](https://www.youtube.com/watch?v=I0PFVrO9CRQ) records three things that should have each been a headline. Captions don't label speakers (and garble names freely); attributions follow meeting context.
 
 ## "That does not exist yet" [(35:12)](https://www.youtube.com/watch?v=I0PFVrO9CRQ&t=2112s)
 
-Kim Roney opened the thread with the obvious problem [(34:05)](https://www.youtube.com/watch?v=I0PFVrO9CRQ&t=2045s): "the Axon contract doesn't read like a purchase agreement... I realize that in the past we've talked about how we don't have a contract with Axon, but surely we have some sort of data sharing agreements." City Manager D.K. Wesley's answer is the record's cornerstone:
+Kim Roney opened the thread with the obvious problem [(34:05)](https://www.youtube.com/watch?v=I0PFVrO9CRQ&t=2045s): "the Axon contract doesn't read like a purchase agreement... I realize that in the past we've talked about how we don't have a contract with Axon, but surely we have some sort of data sharing agreements." [[D.K. Wesley|City Manager D.K. Wesley]]'s answer is the record's cornerstone:
 
 > "What we're looking to do in B2 is work through a negotiated comprehensive one agreement with Axon for all of those different components. So **that does not exist yet**... That hasn't been finalized and has not been executed. **B2 will give me authorization to further negotiate and finalize that contract with Axon.**"
 

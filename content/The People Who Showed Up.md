@@ -148,7 +148,7 @@ Ben Spencer attended the afternoon committee meeting on April 28, then came to t
 > "Have you all seen Star Wars? Don't take federal grant money for the Death Star, please. … As brevity is the soul of wit, I will summarize the best single thing that was said there [by the interim police chief, in her own presentation that night]: **public safety cannot come at the expense of community values.**"
 > — Ben Spencer, May 12, 2026 ([6:18:50](https://www.youtube.com/watch?v=AfdrH-a92As&t=22730s))
 
-He was quoting Chief Stepp back to the council — she said it at [4:34:29](https://www.youtube.com/watch?v=AfdrH-a92As&t=16469s) that same night. Hold the city to it.
+He was quoting Chief [[Jackie Stepp]] back to the council — her exact words at [4:34:29](https://www.youtube.com/watch?v=AfdrH-a92As&t=16469s) that same night were "public safety **should** not come at the expense of community values"; Spencer's rendering sharpened *should* to *cannot*. Either way: hold the city to it.
 
 ## Add your voice
 

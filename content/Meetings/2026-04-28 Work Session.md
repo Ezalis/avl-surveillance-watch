@@ -37,7 +37,7 @@ APD's answer to a council member's genuinely good question — after relaying th
 
 ## "Even the vendors themselves do not have access to our data" [(1:09:13)](https://www.youtube.com/live/7tmfAjpPocA?t=4153)
 
-Chief Stepp's flat claim, early in the presentation: "even the vendors themselves do not have access to our data. **We own all of that data.**"
+[[Jackie Stepp|Chief Stepp]]'s flat claim, early in the presentation: "even the vendors themselves do not have access to our data. **We own all of that data.**"
 
 **The record — contradicted twice before the session ended.** Forty minutes later, Flock's own representative described the contract's actual terms [(1:48:40)](https://www.youtube.com/live/7tmfAjpPocA?t=6520): "There are **two provisions... in which we are allowed to use your data**. Number one, to provide the services... Number two is there is a small subset of **training data that is taken**... for training purposes of training the machine learning." And Kim Roney read the operative clause into the record verbatim [(1:47:33)](https://www.youtube.com/live/7tmfAjpPocA?t=6453): the city "grants to Flock a limited, non-exclusive, royalty-free, **irrevocable, worldwide license** to use the customer data." *Irrevocable. Worldwide.* The city attorney promised a legal opinion on that provision [(1:48:01)](https://www.youtube.com/live/7tmfAjpPocA?t=6481) — whether it was ever delivered is a standing records question. The Axon side has its own version: [[What Axon Contracts Do|ACEIP, the data program the contract enrolls the city in by default]].
 

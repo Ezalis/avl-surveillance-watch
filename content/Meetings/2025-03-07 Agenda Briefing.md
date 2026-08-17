@@ -3,7 +3,7 @@ title: "March 7, 2025: The Briefing That Almost Didn't Happen"
 description: The first time council was told about the LPR network — a year late for the mobile readers, two years late for the stationary ones, and only because Kim Roney read about it in the news. Timestamped from the city's video.
 ---
 
-On March 7, 2025, Deputy Chief Jackie Stepp gave council its first briefing on Asheville's license-plate reader program. Every load-bearing fact below comes from the [city's own video](https://www.youtube.com/watch?v=VYk_Gku-UaY); captions don't label speakers, so attributions follow the meeting context. What makes this briefing historic isn't what was announced — it's what was *admitted*: the surveillance was already running, already networked, and already shared, before the city's elected body heard a word.
+On March 7, 2025, Deputy Chief [[Jackie Stepp]] gave council its first briefing on Asheville's license-plate reader program. Every load-bearing fact below comes from the [city's own video](https://www.youtube.com/watch?v=VYk_Gku-UaY); captions don't label speakers, so attributions follow the meeting context. What makes this briefing historic isn't what was announced — it's what was *admitted*: the surveillance was already running, already networked, and already shared, before the city's elected body heard a word.
 
 ## Why the briefing happened at all [(3:04)](https://www.youtube.com/watch?v=VYk_Gku-UaY&t=174s)
 
