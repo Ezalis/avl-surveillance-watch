@@ -14,6 +14,7 @@ That's how mass surveillance came to Asheville: not through public debate, but a
 - **[[Speak at Council]]** — You get 3 minutes. Here's what's been said, what's unanswered, and how the process works. Next meetings: council **Tuesday, Aug 25** · Public Safety Committee **Thursday, Aug 27**.
 - **[[Timeline]]** — What happened, when, with receipts. Start here if you're new.
 - **[[2026-05-12 City Council|The May 12 Vote]]** — Minute-by-minute anatomy of the midnight vote, from the city's own video.
+- **[[The Check-In Meetings]]** — The private three-by-three meetings where council business gets decided before the public ever sees it.
 - **[[What Is the RTIC]]** — Plain-language explainer on what was actually approved.
 - **[[Claims Library]]** — Citable, sourced facts for petitions, letters, op-eds, and arguments with your uncle.
 - **[[Documents]]** — The primary sources: official minutes, resolutions, APD policies, released and refused records.

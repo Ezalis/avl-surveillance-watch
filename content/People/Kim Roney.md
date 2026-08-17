@@ -16,7 +16,8 @@ The only member of council to vote against the surveillance buildout — every t
 ## In her words
 
 - On process (2025): "We're really missing those levels of public transparency and accountability... skipping all of those steps and burying it into the consent agenda."
-- At the May 28, 2026 mayoral debate: concerns about "a billionaire-owned, AI-fueled, for-profit tech company... working with ICE and Homeland Security and also the police department to surveil people without a warrant." And: "For me, it's important to do the people's work in public." ([BPR](https://www.bpr.org/politics-government/2026-05-28/at-the-first-asheville-mayor-debate-roney-and-manheimer-clash-over-transparency-and-surveillance))
+- At the first 2026 mayoral debate: concerns about "a billionaire-owned, AI-fueled, for-profit tech company... working with ICE and Homeland Security and also the police department to surveil people without a warrant." And: "For me, it's important to do the people's work in public." ([BPR](https://www.bpr.org/politics-government/2026-05-28/at-the-first-asheville-mayor-debate-roney-and-manheimer-clash-over-transparency-and-surveillance))
+- On [[The Check-In Meetings|the check-in system]], same debate: "a series of three-by-threes and sometimes one-on-one meetings where staff might spend anywhere from, like, eight to 10 hours with agendas and presentations, counting votes throughout the day... none of those meetings are public. And there's no minutes." Per Manheimer's own account, Roney is the only member who opposes the practice.
 
 ## Beyond the dais
 

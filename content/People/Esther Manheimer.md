@@ -14,6 +14,10 @@ Voted for and presided over every stage of the buildout: the 2023 Fusus interloc
 - The fiscal framing: the city already pays the Sheriff's Office for Fusus access — "we received a grant from the federal government to be able to pay for our own." ([BPR debate coverage](https://www.bpr.org/politics-government/2026-05-28/at-the-first-asheville-mayor-debate-roney-and-manheimer-clash-over-transparency-and-surveillance))
 - On the transparency criticism, at the same debate: council members need to be able to talk privately — "That's not a transparency issue. That's a functioning issue."
 
+## The check-ins
+
+Manheimer is the constant in Asheville's private "check-in" system — [[The Check-In Meetings|three separate small-group sessions before each council meeting]], each legally sized (two members plus the mayor) to stay outside the open meetings law, with no notice and no minutes. She attends all three, privately canvassing the full council before every public meeting. When the Watchdog exposed the practice in 2023 she conceded the city might "need to move away from that process"; council voted to end it; it resumed, and in 2026 she defended it to NC Local as "permissible" per legal counsel — noting every member besides Roney supports it. Her debate formulation: "That's not a transparency issue. That's a functioning issue."
+
 ## Context
 
 Her May 17, 2026 campaign launch at The Marquee drew RTIC protesters ([WLOS](https://wlos.com/news/local/asheville-mayor-mayoral-campaign-esther-manheimer-city-council-member-kim-roney-community-river-arts-district-buncombe-county-board-commissioners-marquee-protest-real-time-intelligence-center-police-department)). Faces [[Kim Roney]] in November. Open questions she has not answered publicly: whether the executed Axon contract will be released, and whether she'd support making APD's promised safeguards binding by ordinance — see [[Promise Tracker]].
