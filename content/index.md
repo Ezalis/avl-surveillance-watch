@@ -22,6 +22,7 @@ That's how mass surveillance came to Asheville: not through public debate, but a
 - **[[People/index|People]]** — Profiles of every official and candidate: their votes, their words, their silence.
 - **[[Promise Tracker]]** — What APD promised on the record, and whether it holds.
 - **[[The National Wave]]** — 50+ communities have dropped these systems. Why.
+- **[[The Abuse Record]]** — How surveillance abuse actually gets discovered (almost never by the safeguards), including NC's own 2026 cases.
 - **[[WNC and NC]]** — Macon County removed its cameras. What our neighbors are doing.
 - **[[Get Involved]]** — CAMS, Sunshine Labs, SASSI, DeFlockNC, and how to plug in.
 - **[[Sources]]** — Full bibliography.
