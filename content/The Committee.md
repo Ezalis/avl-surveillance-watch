@@ -1,5 +1,5 @@
 ---
-title: The Committee
+title: The Public Safety Committee
 description: Asheville's Public Safety Committee is where RTIC oversight officially lives. A meeting-by-meeting review of every recording shows what it actually does instead — and the one meeting that advanced the RTIC has no recording at all.
 ---
 
@@ -13,7 +13,7 @@ On **March 26, 2026**, this committee advanced the RTIC grant to full council, 2
 
 **November 20, 2025** is the committee's one real test in the record. Eight callers — including a Buncombe deputy register of deeds — demanded the Flock and Fusus contracts be canceled over ICE fears, one asking the committee to "disable any city-owned Flock or Fusus camera and pause any data sharing agreement so that proper oversight and further review can be put in place."
 
-The committee's response, in full: Mosley asked whether the city has agreements with ICE. Chief Lamb answered "No... we do not share any of our data with any federal agencies," adding that Flock and Axon "don't have the right to share our data either." The city attorney added that LPR use is "limited to only active criminal investigations, which is specifically exempt from public records." Smith asked one follow-up. **No one asked for the data-sharing agreement list** (a caller had cited over a thousand outside agencies — a figure that was [[Who Gets Watched|nationally documented, not hypothetical]]). **No one asked for an audit. No motion was made.** The chair's entire contribution was to thank everyone by name and move to the next item. Note what that "criminal investigations" reassurance actually is: the same exemption the city later used to refuse the public's audit request — the wall around the data doubles as the wall around accountability.
+The committee's response, in full: Mosley asked whether the city has agreements with ICE. Chief Lamb answered "No... we do not share any of our data with any federal agencies," adding that Flock and Axon "don't have the right to share our data either." The city attorney added that LPR use is "limited to only active criminal investigations, which is specifically exempt from public records." Smith asked one follow-up. **No one asked for the data-sharing agreement list** (a caller had cited over a thousand outside agencies — a figure that was [[Who Gets Watched|nationally documented, not hypothetical]]). **No one asked for an audit. No motion was made.** The chair's entire contribution was to thank everyone by name and move to the next item. That "criminal investigations" reassurance is the same exemption the city later used to refuse the public's audit request: the exemption that shields the data also shields the department from audit.
 
 Every claim staff made that day has since collided with the documented record — Flock *had* shared data with federal agencies through pilots its own customers didn't know about, and Roney would later read the contract's "irrevocable, worldwide license" clause [[2026-04-28 Work Session|into the record]] against the "they don't have the right" assurance.
 
@@ -35,11 +35,11 @@ The committee is not idle — its energy just flows in one direction. In July 20
 
 By November, APD reported the results to the same committee: **eight special operations, 93 people charged** — "from median solicitation, panhandling and trespassing to the possession of fentanyl." The complaint pipeline feeding this enforcement explicitly serves "businesses and neighborhood associations," and by January 2026 staff described [[Follow the Money|BID]] ambassadors phoning APD daily about people "sleeping in front" of businesses. The city's own framing at the July hearing — "It is not our intent to use this as a hammer" — met the same fate as its surveillance promises: measured against output, four months later, in the charging numbers it reported itself.
 
-That's the committee in one frame: **93 people charged under an ordinance it advanced; zero audit reports requested for the surveillance apparatus it exists to oversee.**
+**93 people charged under an ordinance it advanced; zero audit reports requested for the surveillance apparatus it exists to oversee.**
 
 ## The numbers presented there, unchallenged
 
-The committee is also where APD's statistics go to be accepted. Documented to it, on the record: Chief Lamb describing "**predictive policing**" and "predictive analytics" (July 2025) — the words the city's later "reactive, not predictive" messaging had to erase ([[Their Claims vs The Record]]); a claimed "multi-year 100% clearance rate for homicides" minutes before a deputy chief's own figures showed **two 2024 homicides still open**; and a violent-crime reduction that was "37%" in July's telling, "over 36%" in the chair's November tribute to the retiring chief, and **24%** in the final annual figure reported that January. No member flagged any of it.
+The committee accepts APD's statistics without challenge. Documented to it, on the record: Chief Lamb describing "**predictive policing**" and "predictive analytics" (July 2025) — the words the city's later "reactive, not predictive" messaging had to erase ([[Their Claims vs The Record]]); a claimed "multi-year 100% clearance rate for homicides" minutes before a deputy chief's own figures showed **two 2024 homicides still open**; and a violent-crime reduction that was "37%" in July's telling, "over 36%" in the chair's November tribute to the retiring chief, and **24%** in the final annual figure reported that January. No member flagged any of it.
 
 ## Why this page exists
 

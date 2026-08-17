@@ -34,12 +34,12 @@ APD publishes its policy manual publicly on [PowerDMS](https://public.powerdms.c
 ## Released records — and refused ones
 
 - **[APD Flock Camera Sheet](https://www.sunshinerequest.com/wp-content/uploads/2025/07/APD-Flock-Camera-Sheet1.pdf)** — which agencies have search and hot-list access to Asheville's Flock data (released Sept 2025 via [Sunshine Request](https://www.sunshinerequest.com/records_request/july-2025-request-for-city-of-asheville-nc-government-organization-and-network-audit-in-flock-06-01-2024-present-and-list-of-data-sharing-agencies-and-organizations/)).
-- **Refused:** the same request asked for Flock **organization and network audit logs** — the record of who searched what. The city declined, citing G.S. 20-183.31(b) and the criminal-intelligence exemption (G.S. 132-1.4). The dispute remains open. Remember this the next time you hear "there's a really robust audit trail" — the trail exists; **the city has already refused to show it to the public.** See [[Promise Tracker]].
+- **Refused:** the same request asked for Flock **organization and network audit logs** — the record of who searched what. The city declined, citing G.S. 20-183.31(b) and the criminal-intelligence exemption (G.S. 132-1.4). The dispute remains open. The trail exists — and **the city has already refused to show it to the public.** See [[Promise Tracker]].
 - **Missing:** APD's [transparency page](https://www.ashevillenc.gov/department/police/transparency/) describes an "Axon ALPR Dashboard" and a "Flock Safety ALPR Dashboard," but the page contains no working links and the dashboard page returns a 404 (checked Aug 17, 2026).
 
 ## Filing your own requests
 
-The city's records portal is [JustFOIA](https://cityofashevillenc.justfoia.com/publicportal/home/newrequest) (no account needed; NC law lets anyone request, no reason required). Note: the city's old NextRequest archive of past requests **has been taken offline** — released records are no longer publicly searchable at all, which is its own transparency story. High-value requests not yet fulfilled:
+The city's records portal is [JustFOIA](https://cityofashevillenc.justfoia.com/publicportal/home/newrequest) (no account needed; NC law lets anyone request, no reason required). Note: the city's old NextRequest archive of past requests **has been taken offline** — released records are no longer publicly searchable at all, which is itself a transparency failure. High-value requests not yet fulfilled:
 
 1. The **executed Axon contract** (authorized by Resolution 26-99), with all pricing schedules and renewal terms.
 2. The **quarterly RTIC access audits** APD promised (frame around G.S. 20-183.32(f) oversight records, since the city rejects requests framed as ALPR "data" under 20-183.31(b)).

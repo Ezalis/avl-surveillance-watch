@@ -1,5 +1,5 @@
 ---
-title: "March 25, 2025: Chairs and Workstations"
+title: "March 25, 2025: First RTIC Money, on the Consent Agenda"
 description: The first RTIC money moved on the consent agenda, sandwiched between bulletproof vests and DEA grants — and the argument that carried it contained the admission that sinks it. Timestamped from the city's video.
 ---
 
@@ -15,7 +15,7 @@ The RTIC's first funding, introduced between body armor and drug enforcement, la
 
 ## The public saw it anyway [(20:31)](https://www.youtube.com/watch?v=Bc-VVlvBx0U&t=1231s)
 
-Residents pulled the item into the light. One commenter, identifying as a former lawyer: "A lot of this stuff is arguably unconstitutional... at the end of this, they had the mayor saying, 'If we build it, they will come. **If you pass this, ICE will come.**'" Another: "I just don't believe that it won't be accessible to federal organizations... It could be used to locate undocumented people... track people seeking feminine healthcare." March 2025. Both predictions now read like documentation of the year that followed: [[Who Gets Watched]].
+Residents pulled the item into the light. One commenter, identifying as a former lawyer: "A lot of this stuff is arguably unconstitutional... at the end of this, they had the mayor saying, 'If we build it, they will come. **If you pass this, ICE will come.**'" Another: "I just don't believe that it won't be accessible to federal organizations... It could be used to locate undocumented people... track people seeking feminine healthcare." March 2025. Both predictions came true within the year: [[Who Gets Watched]].
 
 ## "I kind of feel robbed" [(30:00)](https://www.youtube.com/watch?v=Bc-VVlvBx0U&t=1800s)
 
@@ -33,7 +33,7 @@ Councilmember Bo Hess carried the item:
 
 And again minutes later [(35:06)](https://www.youtube.com/watch?v=Bc-VVlvBx0U&t=2106s): the center "already exists... The funding buys basic infrastructure like desk, chairs, workstations. It's already been established and has already helped apprehend dangerous individuals."
 
-Read the admission inside the reassurance: the surveillance center **already existed** — established and operating — before council's first vote on it. That's not a defense of the process; it's a confession about it. And the "chairs" framing didn't survive the meeting: Chief Mike Lamb, answering questions moments later [(41:09)](https://www.youtube.com/watch?v=Bc-VVlvBx0U&t=2469s), said "we do have a lot of the hardware that we need... **We don't necessarily have the Fusus software yet or the finalized agreement with Axon** as far as managing the data." The money wasn't for furniture. It was the first brick of the software-and-contract layer council would be told, fourteen months later, it had already effectively decided. ([[Bo Hess]] · [[Their Claims vs The Record]])
+Hess's reassurance contains the admission: the surveillance center **already existed** — established and operating — before council's first vote on it. And the "chairs" framing didn't survive the meeting: Chief Mike Lamb, answering questions moments later [(41:09)](https://www.youtube.com/watch?v=Bc-VVlvBx0U&t=2469s), said "we do have a lot of the hardware that we need... **We don't necessarily have the Fusus software yet or the finalized agreement with Axon** as far as managing the data." The money wasn't for furniture. It was the start of the software and contract spending council approved in full fourteen months later. ([[Bo Hess]] · [[Their Claims vs The Record]])
 
 ## The vendor-access question, dodged [(39:02)](https://www.youtube.com/watch?v=Bc-VVlvBx0U&t=2342s)
 

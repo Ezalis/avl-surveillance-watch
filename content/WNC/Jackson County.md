@@ -25,9 +25,9 @@ Jackson County's Sheriff (Doug Farmer) runs **4 Flock cameras** on a **5-year, $
 
 At the **August 4, 2026 work session**, Farmer gave a defensive presentation ("force multiplier," zero documented misuse); commissioners **Michael Jennings** ("what it could be used for in the future") and **Todd Bryson** (false flags on innocent drivers) raised real concerns. **No vote was taken and none is scheduled** — funding recurs each budget cycle.
 
-## The WCU wrinkle: a documented legal violation in progress
+## WCU's retention violation: 365 days against a 90-day legal cap
 
-Western Carolina University runs **three** ALPR systems — Flock, Rekor (campus police), and a **Genetec parking reader that retains "hits" for 365 days**. NC law caps ALPR retention at **90 days** (G.S. 20-183.32(a)). Per the university's own August 2026 records response, that's a **live statutory violation** being pursued by records requesters. ([DeFlockILM tracker](https://deflockilm.org/flock-in-north-carolina/)) It's also the region's cleanest small proof of the thesis: even the *parking department* can't stay inside the surveillance rules.
+Western Carolina University runs **three** ALPR systems — Flock, Rekor (campus police), and a **Genetec parking reader that retains "hits" for 365 days**. NC law caps ALPR retention at **90 days** (G.S. 20-183.32(a)). Per the university's own August 2026 records response, that's a **live statutory violation** being pursued by records requesters. ([DeFlockILM tracker](https://deflockilm.org/flock-in-north-carolina/)) Even the university's parking system is out of compliance with the state's surveillance law.
 
 ## Watch
 

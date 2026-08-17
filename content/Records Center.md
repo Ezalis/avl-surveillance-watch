@@ -9,7 +9,7 @@ This site documents what officials said. Public records show what they did. Nort
 
 **Refusals are evidence.** In July 2025 a resident asked for the city's Flock audit records — the audits officials tout as the safeguard. The city refused. That refusal is now one of the most-cited facts on this site ([[Their Claims vs The Record]]). You cannot lose: a released record answers a question, and a refusal proves the safeguard is unauditable.
 
-**"You're wasting tax money" has it backwards.** Records requests force the city to reveal the true cost and true behavior of a system sold as cheap and automated. If answering basic questions about the surveillance apparatus is expensive, that is a fact about the apparatus — one the public is entitled to price in. Transparency isn't sand in the gears; it's the invoice.
+**"You're wasting tax money" has it backwards.** Records requests force the city to reveal the true cost and true behavior of a system sold as cheap and automated. If answering basic questions about the surveillance apparatus is expensive, that is a fact about the apparatus — one the public is entitled to price in.
 
 ## How to file
 
@@ -127,15 +127,23 @@ A request needs no magic words. State that you are requesting public records und
 
 **What it proves:** why the one meeting that formally advanced the RTIC is the one gap in the archive — and who killed the protective resolution the public was told to wait for. — **Status: not yet filed**
 
+### 14. Who called whom — the origin of the earmark
+
+**To: City of Asheville.** The record disagrees on how the $1.14M started. CAMS and BPR report the earmark came at APD's request; Mountain Xpress, citing a city report, says [[Chuck Edwards]]' office contacted APD in April 2024 about potential funding. Edwards signed the request letter May 22, 2024 — while council knew nothing.
+
+> Under N.C.G.S. Chapter 132, I request: (1) all correspondence between the City of Asheville (including APD) and the office of Rep. Chuck Edwards between January 1, 2024 and June 30, 2024 concerning Community Project Funding, a Real-Time Intelligence Center, or federal appropriations for police technology; (2) the city report or memorandum referenced in May 2026 press coverage describing an April 2024 contact between Rep. Edwards' office and APD regarding this funding; (3) records sufficient to show which city officials were aware of the funding request before May 22, 2024.
+
+**What it proves:** who initiated the money that council was later told it would be wasteful to refuse — and exactly which officials knew, and when, while the elected body did not. ([[Chuck Edwards]]) — **Status: not yet filed**
+
 ## When they say no
 
 Expect these, and know what each refusal means:
 
-- **"Criminal investigation records" ([G.S. 132-1.4(a)](https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_132/GS_132-1.4.html)).** Legitimate for specific case files and criminal-intelligence records — not for program-level audit reports, contracts, financial records, or policy documents. When it's stretched over those, the stretching is the story. Ask them to redact rather than withhold, in writing.
+- **"Criminal investigation records" ([G.S. 132-1.4(a)](https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_132/GS_132-1.4.html)).** Legitimate for specific case files and criminal-intelligence records — not for program-level audit reports, contracts, financial records, or policy documents. When it's stretched over those, the overreach itself is worth publishing. Ask them to redact rather than withhold, in writing.
 - **"Captured plate data is confidential" (G.S. 20-183.32(e)).** True — the scans themselves are not public records. But the same Article *requires* audit-and-effectiveness reporting (G.S. 20-183.31(a)(7)) and written policies and calibration records (20-183.31(a), (c)) — none of which are captured plate data. An agency citing Article 3D to withhold the documents Article 3D requires it to create has made your argument for you.
 - **"Law enforcement recordings" (G.S. 132-1.4A).** Camera *footage* genuinely requires a court order in NC — which is why nothing in the queue above asks for footage. City Attorney Branham himself described this wall at the [[2025-03-07 Agenda Briefing|March 2025 briefing]]: "it actually takes an act of the court." Remember that the next time transparency is promised — the law he cited as a safeguard is also the reason you can never check.
 - **Attorney-client privilege.** Real, but it covers advice — not the fact that advice exists, was delivered, or wasn't.
-- **Silence.** NC law requires production "as promptly as possible" but sets no deadline; agencies sometimes just... don't. A polite follow-up citing the statute, then a copy to a reporter, works better than anger. The [NC Open Government Coalition's Sunshine Center](https://opengovt.elon.edu/) offers free help, and [Sunshine Request](https://www.sunshinerequest.com/) files and publishes requests for WNC residents.
+- **Silence.** NC law requires production "as promptly as possible" but sets no deadline; agencies sometimes simply don't respond. A polite follow-up citing the statute, then a copy to a reporter, works better than anger. The [NC Open Government Coalition's Sunshine Center](https://opengovt.elon.edu/) offers free help, and [Sunshine Request](https://www.sunshinerequest.com/) files and publishes requests for WNC residents.
 
 Every response — and every non-response — feeds back into this site: the [[Promise Tracker]], [[Documents]], and the pages above. File one, tell me, and I'll track it here.
 

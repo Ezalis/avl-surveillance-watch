@@ -28,7 +28,7 @@ The March primary cut twenty candidates to six. Three are incumbents who **voted
 
 **The questionnaire gap:** not one 2026 candidate questionnaire in Buncombe County — [Asheville DSA's](https://avldsa.org/2026-city-council-primary-questionnaire-responses/), [BPR's](https://www.bpr.org/politics-government/2026-02-25/asheville-city-council-candidates-answer-bprs-questions), or [the Chamber's](https://www.ashevillechamber.org/news-events/2026-election-guide/) — asked a single question about surveillance. An August candidate forum at Shiloh covered seniors and displacement; surveillance never came up. The most consequential technology decision this council made in years is invisible in the campaign to replace it. **That only changes if voters ask.**
 
-## Sheriff: the Fusus race nobody's calling that
+## Sheriff: the county camera network is on the ballot
 
 **[[Quentin Miller]]** (D, incumbent, seeking a third term) — Built the county's Fusus real-time intelligence center: ~1,800–2,000 cameras including ~1,500 in county schools. Publicly credits it for crime reductions. ([WLOS](https://wlos.com/news/local/crime-takes-a-dive-in-buncombe-county-sheriff-credits-community-connection-innovative-technology-north-carolina-state-bureau-of-investigations-annual-crime-report-real-time-intelligence-center)) Nuance the record should hold: Miller has also taken documented stands *limiting* federal reach — questioning ICE detainers on constitutional grounds and barring ICE from county schools without court orders. ([Bolts](https://boltsmag.org/buncombe-county-district-attorney-sheriff-elections-and-state-preemption/)) The county's camera network, meanwhile, keeps growing with no independent oversight.
 

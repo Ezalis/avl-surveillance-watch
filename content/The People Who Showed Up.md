@@ -41,7 +41,7 @@ Residents didn't just invoke the Constitution — they explained, precisely, why
 > "I just don't believe that it won't be accessible to federal organizations. … It could be used to locate undocumented people or indeed people who hold residential status, green card status, and are in danger of having that revoked. I'm worried that it would be used to track people seeking feminine healthcare, because we just don't know what's going to happen."
 > — Molly Rickert, March 25, 2025 ([23:37](https://www.youtube.com/watch?v=Bc-VVlvBx0U&t=1417s))
 
-Molly Rickert said this in March 2025 — more than a year before the RTIC vote, and months before most of the city had heard the words "real-time intelligence center." Everything on [[Who Gets Watched]] is the documentation of her being right.
+Molly Rickert said this in March 2025 — more than a year before the RTIC vote, and months before most of the city had heard the words "real-time intelligence center." [[Who Gets Watched]] documents everything she predicted coming true.
 
 ## "We, the people of Asheville, were the product"
 

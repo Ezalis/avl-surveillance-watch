@@ -17,7 +17,7 @@ The court held that "individuals have a reasonable expectation of privacy in the
 
 How fast does the diary fill? In Norfolk, Virginia — about 175 Flock cameras, a network smaller than what Asheville plugs into — one plaintiff's car was photographed **475 times in four and a half months**. A federal judge upheld that system in January 2026, but went out of his way to warn that the answer was contingent: "at least in Norfolk, Virginia, the answer is: **not today**" — and that "as the number and capabilities of ALPR cameras expand, the constitutional balancing could conceivably tip the other way." The Institute for Justice is appealing. ([WHRO](https://www.whro.org/business-growth/2026-02-11/a-federal-judge-ruled-norfolks-flock-surveillance-cameras-dont-invade-peoples-privacy-yet) · [Courthouse News](https://www.courthousenews.com/judge-holds-norfolks-license-plate-reader-use-constitutional/))
 
-Your regular routes tell anyone with database access where you sleep, where you work, which church or clinic or meeting you attend, and whose driveway your car spends the night in. That is not a hypothetical capability. It is the product.
+Your regular routes tell anyone with database access where you sleep, where you work, which church or clinic or meeting you attend, and whose driveway your car spends the night in. That isn't a side effect. It's the product.
 
 ## The network your plate joins
 
@@ -63,13 +63,13 @@ A hotlist "hit" is not a fact. It's an automated alert built from human data ent
 
 ## Beyond plates: the live-video layer
 
-The RTIC isn't just plate readers — that's the part Asheville already had. What the Axon contract adds is **Fusus**, and Axon's own marketing describes it better than any critic could: a CORE device placed on a private camera network "detects, analyzes and connects to **every camera on the building's network**," and the platform "extracts and unifies live video, data and sensor feeds from virtually any source," giving police "a live, map-based view of both public and private camera networks." ([Axon's product page](https://www.axon.com/products/axon-fusus)) Their words.
+The RTIC isn't just plate readers — that's the part Asheville already had. What the Axon contract adds is **Fusus**, and Axon's own marketing describes it better than any critic could: a CORE device placed on a private camera network "detects, analyzes and connects to **every camera on the building's network**," and the platform "extracts and unifies live video, data and sensor feeds from virtually any source," giving police "a live, map-based view of both public and private camera networks." ([Axon's product page](https://www.axon.com/products/axon-fusus))
 
 Asheville's version of this was described on the record at the March 25, 2025 council meeting by APD technology specialist [[Jimmy Wingo]] ([video, 42:09](https://www.youtube.com/watch?v=Bc-VVlvBx0U)): private participation comes in two tiers — "a registry, just so we know where a camera is in a city, and then there's also one where you could provide us **full viewing capability**." That includes, in his example, "the Ring camera at your home." When Councilmember Roney pointed out that courts elsewhere have compelled private footage, Wingo conceded: "if the court comes to your house and has a warrant for that Ring camera footage, then you would have to give it to us." The "voluntary" in voluntary integration belongs to the camera's owner — never to the people it records. See [[Before You Plug In]] for what that means if you own the camera, and [[Watching the Poor]] for what it means if you live under one you never agreed to.
 
 ## What a scan becomes
 
-Put the pieces in a row and read them as one machine:
+Put the pieces in a row:
 
 1. A camera on your commute reads your plate — along with 99.5% of plates belonging to no suspect anywhere.
 2. The scan joins a searchable regional and national pool — 19,000 cameras or 177,000, depending on which APD briefing you attend.

@@ -34,7 +34,7 @@ And the records blackout: the sheriff's office has **refused the bulk of public 
 ## The leverage
 
 1. **The November election** — see the timeline; neither candidate has been put on record.
-2. **The budget is the vote the commission never took**: the cameras ride the Sheriff's general appropriation, renewed each June. Garrison's "we have no oversight" is false in exactly one place — the dollars.
+2. **The budget is the vote the commission never took**: the cameras ride the Sheriff's general appropriation, renewed each June. Garrison says the board has no oversight of the sheriff's purchases — but the board approves the budget they're paid from.
 3. The commission meets the **2nd Tuesday, 6:45 PM public comment** ([video: Madison County Government on YouTube](https://www.youtube.com/@madisoncountygovernment3990)). Commissioners: boc@madisoncountync.gov.
 
 ## Watch items

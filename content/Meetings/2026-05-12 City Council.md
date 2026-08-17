@@ -29,7 +29,7 @@ After the staff presentation on B1/B2, a motion to adopt was made and seconded �
 
 ## The hour the public got — and what they did with it
 
-Twenty-three residents spoke; twenty-two opposed. What that hour contained was not a mood — it was **the complete argument against the system, made with professional precision**, now collected in full at [[The People Who Showed Up]]. The arc of it, from the video:
+Twenty-three residents spoke; twenty-two opposed. That hour was not venting. It contained **the complete argument against the system**, now collected in full at [[The People Who Showed Up]]. The arc of it, from the video:
 
 - **The security consultant**: Sarah Kent — "The Fourth Amendment binds local government, not Axon... We cannot claw back that data" ([5:28:50](https://www.youtube.com/watch?v=AfdrH-a92As&t=19730s), [5:31:11](https://www.youtube.com/watch?v=AfdrH-a92As&t=19871s)).
 - **The researcher with Axon's own investor deck**: Aaron Dahlstrom — 125% net revenue retention, the city's own 86% bodycam cost jump — submitted the deck itself as public comment; it's in the city's meeting folder ([5:21:28](https://www.youtube.com/watch?v=AfdrH-a92As&t=19288s)).

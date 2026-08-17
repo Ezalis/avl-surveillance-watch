@@ -3,7 +3,7 @@ title: McDowell County
 description: Twelve cameras, zero press coverage, no vote anyone can find — WNC's documentation hole.
 ---
 
-McDowell County is what surveillance looks like when nobody's watching the watchers at all.
+In McDowell County, no one is checking at all.
 
 ## Timeline
 

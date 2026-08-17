@@ -1,5 +1,5 @@
 ---
-title: The Check-In Meetings
+title: Council's Private Check-Ins
 description: How Asheville council business gets discussed in private groups of three — legally sized to dodge the open meetings law — and why the RTIC's smooth 6–1 votes should be read in that light.
 ---
 
@@ -9,7 +9,7 @@ Before you can understand a council that votes 6–1 for mass surveillance six s
 
 Since roughly 2018, Asheville's real deliberation has happened on Thursdays, in private. As [Asheville Watchdog's 2023 investigation](https://avlwatchdog.org/city-council-mayor-and-staff-hold-closed-door-meetings-sowing-distrust/) documented: the Thursday before each Tuesday council meeting, city staff run **three separate 90-minute "check-in" sessions, each with no more than two council members plus the mayor** — the same agenda and materials each time. No public notice. No minutes. No recordings. The Watchdog found the sessions covered homeless policy, hotel development, affordable housing, and the allocation of ~$20 million in COVID relief.
 
-Do the math on the structure: groups of three never trigger North Carolina's open meetings law, which defines an "official meeting" as a **simultaneous majority** — four of Asheville's seven. And note who attends *all three* sessions: the mayor, who thereby privately canvasses the entire council before every public meeting, one legally invisible group at a time.
+The structure matters: groups of three never trigger North Carolina's open meetings law, which defines an "official meeting" as a **simultaneous majority** — four of Asheville's seven. And note who attends *all three* sessions: the mayor, who thereby privately canvasses the entire council before every public meeting, one legally invisible group at a time.
 
 ## The law — and the loophole
 
@@ -20,7 +20,7 @@ The experts who've looked at Asheville's version, on the record: Hugh Stevens, l
 ## Caught, "ended," resumed — documented
 
 - **January 2023:** The Watchdog exposes the practice. Manheimer: "If these check-ins are a barrier to folks having confidence... then I think we need to move away from that process."
-- **February 2023:** Council votes to replace check-ins with public work sessions — a transparency reform passed, without apparent irony, **on the consent agenda, bundled with ten other items**, after a resident's request for a separate vote was ignored. ([Watchdog](https://avlwatchdog.org/city-council-check-ins-are-out/))
+- **February 2023:** Council votes to replace check-ins with public work sessions — a transparency reform passed **on the consent agenda, bundled with ten other items**, after a resident's request for a separate vote was ignored. ([Watchdog](https://avlwatchdog.org/city-council-check-ins-are-out/))
 - **2025–2026:** The practice quietly resumes. Patrick Conant confirms it in the Watchdog's [2025 open-meetings lawsuit coverage](https://avlwatchdog.org/asheville-watchdog-sues-city-of-asheville-alleging-open-meetings-law-violations/); [NC Local documents](https://www.whqr.org/local/2026-06-30/local-government-officials-are-discussing-public-business-behind-closed-doors-is-that-legal) budget check-ins the week of March 16, 2026 covering cost-cutting, staff wages, and the property tax rate. Manheimer tells NC Local the check-ins are "permissible" per legal counsel — and that **every council member besides Roney supports them**.
 
 ## What the participants say
@@ -39,7 +39,7 @@ City Attorney Brad Branham's defense over the years has been consistent: the mee
 
 **What's documented:** the check-in system existed before, during, and after the RTIC approvals; every RTIC vote arrived at the public meeting and passed 6–1 with no council deliberation visible beyond Roney's dissents; on May 12 the motion was seconded before public comment began and the vote came [[2026-05-12 City Council|six seconds after the last speaker]].
 
-**What's not documented:** no outlet has established that the RTIC votes were specifically pre-counted in check-ins. There are no minutes — that's the point. So I say it precisely: *a council that privately pre-discusses its agenda in unminuted groups of three produced surveillance votes that were, in public, foregone conclusions.* Whether that's coordination or coincidence is exactly the question the missing minutes make unanswerable — and that's the indictment.
+**What's not documented:** no outlet has established that the RTIC votes were specifically pre-counted in check-ins. There are no minutes — that's the point. So I say it precisely: *a council that privately pre-discusses its agenda in unminuted groups of three produced surveillance votes that were, in public, foregone conclusions.* Whether that's coordination or coincidence can't be answered — there are no minutes. That's the problem the law was written to prevent.
 
 ## Asheville's open-meetings record
 

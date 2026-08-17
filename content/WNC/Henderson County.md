@@ -28,7 +28,7 @@ Henderson County is the region's most active live fight.
 - **Fletcher PD** (since fall 2025) and **Laurel Park PD** (4 cameras, early 2026) — counts and contracts largely unpublished. Countywide: **~39–42 cameras** per DeFlock mapping.
 - **No commission vote has ever been taken on any of it.** Chair Bill Lapsley has signaled the board may not even take the question up. ([Hendersonville Lightning](https://www.hendersonvillelightning.com/news/16237-surveillance-cameras-trigger-deflock-henderson-county-a-citizen-uprising.html))
 
-## The uprising
+## The resident campaign to remove the cameras
 
 **Austin Rhodes** — a 30-year-old Edneyville berry farmer and beekeeper — started the [defund petition](https://www.change.org/p/stop-funding-mass-surveillance-defund-flock-cameras-in-henderson-county-nc): **937 signatures on Aug 10, 1,000+ by Aug 14, 2,071 by Aug 17** — more than doubling in a week. (A counter-petition to *increase* Flock funding: 61 signatures.) Rhodes spoke at the Aug 3 commissioners' meeting and runs the DeFlock Henderson County group; his response to Flock's new safeguards: "unwise and foolish to use the honor system." ([WLOS](https://wlos.com/news/local/flock-cameras-henderson-county-reaction-western-north-carolina-violation-petition-officers-removal-license-plate-reader-police-resdeints-crime-privacy-mandate-community))
 

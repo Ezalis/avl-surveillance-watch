@@ -14,9 +14,9 @@ Voted yes at every stage of the buildout — the 2023 Fusus interlocal, the 2025
 
 ## In her words
 
-This is the shortest section on this page for a reason: **I could find no substantive public statement from Mosley on the RTIC, Fusus, Flock, or surveillance generally** — not at council, not on the campaign trail, not in any candidate questionnaire (as of Aug 17, 2026). GAP of Asheville reported that constituent advocacy to council members before the vote received no substantive responses.
+**I could find no substantive public statement from Mosley on the RTIC, Fusus, Flock, or surveillance generally** — not at council, not on the campaign trail, not in any candidate questionnaire (as of Aug 17, 2026). GAP of Asheville reported that constituent advocacy to council members before the vote received no substantive responses.
 
-## The BID seat
+## Her seat on the downtown improvement district board
 
 Mosley holds the council's **non-voting seat on the board of the Asheville Downtown Improvement District** — the Chamber/Downtown Association-created nonprofit that operates the BID she voted to create (6–1, Roney no). See [[Follow the Money]] for how the BID, the Chamber's camera-registry advocacy, and the RTIC's downtown camera-recruitment program interlock — and why a council member sitting on the operator's board while seeking re-election is itself a question for the campaign.
 

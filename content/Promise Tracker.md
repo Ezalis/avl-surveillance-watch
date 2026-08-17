@@ -3,9 +3,9 @@ title: Promise Tracker
 description: Every commitment APD and the city made to get the RTIC approved — tracked to 2033.
 ---
 
-The RTIC was sold on promises. Not one is enforceable: no ordinance requires them, the contract wasn't public when council voted, and every safeguard is a policy APD wrote and APD can rewrite. So this page does what the city didn't build a mechanism for — it remembers, and it checks.
+The RTIC was sold on promises. Not one is enforceable: no ordinance requires them, the contract wasn't public when council voted, and every safeguard is a policy APD wrote and APD can rewrite. So this page does what no city mechanism does: it tracks every promise and checks it against the record.
 
-The contract runs to **2033**. The center goes fully operational **spring/summer 2027**. This page is the long game.
+The contract runs to **2033**. The center goes fully operational **spring/summer 2027**.
 
 ## The ledger
 
@@ -49,6 +49,6 @@ Neighboring precedent: Apex, NC residents have already [drafted a local ALPR gov
 
 ## How to use this page
 
-Quote a row number at the podium ("Promise 4 — where's the audit?"). Take it on the tour. Put it to a candidate. When a promise is tested — kept or broken — the status changes, with a source, and the change is dated. The city built a surveillance system with a long memory. So are we.
+Quote a row number at the podium ("Promise 4 — where's the audit?"). Take it on the tour. Put it to a candidate. When a promise is tested — kept or broken — the status changes, with a source, and the change is dated. The city built a system with a long memory. This page is ours.
 
 *Related: [[Speak at Council]] · [[Claims Library]] · [[What Is the RTIC]]*

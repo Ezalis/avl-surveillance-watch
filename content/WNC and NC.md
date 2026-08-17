@@ -16,11 +16,11 @@ The numbers that moved them: the sheriff's office was logging **1 to 3 million p
 - Commissioner Barry Breeden: "there's a lot of unknowns in where the data goes."
 - A resident at public comment: "I love my government, but I don't trust you as much as I trust my mother."
 
-And the part Asheville's council should sit with: **the opposition was led substantially by Republicans.** The Macon County GOP organized against Flock; Republican commission candidate Dylan Castle campaigned against it at public comment. When the most successful anti-surveillance politics in the region is coming from conservative counties, "public safety vs. privacy" isn't a left-right fight — it's a surveilled-versus-surveillers fight, and the surveilled are winning where they organize.
+And a fact Asheville's council should notice: **the opposition was led substantially by Republicans.** The Macon County GOP organized against Flock; Republican commission candidate Dylan Castle campaigned against it at public comment. When the most successful anti-surveillance politics in the region is coming from conservative counties, this isn't a left-right fight. It's residents versus the agencies watching them — and residents are winning where they organize.
 
 ## County deep dives
 
-Full pages, built from meeting records, transparency portals, and local reporting: **[[WNC/Asheville|Asheville]]** (the home case in regional format — the full implementation timeline, linked to every anatomy page) · **[[Buncombe County]]** (the county backbone + the 1,500 school cameras) · **[[Henderson County]]** (the 2,071-signature uprising) · **[[Madison County]]** ("You will not speak on Flock tonight") · **[[Haywood County]]** · **[[Jackson County]]** (1.19M reads/month; WCU's retention violation) · **[[Macon County]]** (the win, and its epilogue) · **[[Transylvania County]]** (Brevard's live decision — Axon's "free cameras" pitch) · **[[McDowell County]]** (the documentation hole) · **[[Rutherford County]]** (the vandalism story; Forest City's audio detection)
+Full pages, built from meeting records, transparency portals, and local reporting: **[[WNC/Asheville|Asheville]]** (the home case in regional format — the full implementation timeline, linked to every meeting page) · **[[Buncombe County]]** (the county backbone + the 1,500 school cameras) · **[[Henderson County]]** (the 2,071-signature uprising) · **[[Madison County]]** ("You will not speak on Flock tonight") · **[[Haywood County]]** · **[[Jackson County]]** (1.19M reads/month; WCU's retention violation) · **[[Macon County]]** (the win, and its epilogue) · **[[Transylvania County]]** (Brevard's live decision — Axon's "free cameras" pitch) · **[[McDowell County]]** (the documentation hole) · **[[Rutherford County]]** (the vandalism story; Forest City's audio detection)
 
 Also organizing nearby: **Mountain Indivisible** ([mountainindivisible.org](https://mountainindivisible.org), Spruce Pine) covers Mitchell, Avery, and Yancey counties with its "Flock Corral" resource page — meaning organized opposition now exists in at least six WNC counties.
 
@@ -53,7 +53,7 @@ While counties remove cameras, Raleigh is installing them. The **July 2026 state
 
 **What NC law actually requires** ([G.S. 20-183.30 et seq.](https://www.ncleg.gov/Laws/GeneralStatuteSections/Chapter20)): a written policy, a 90-day retention cap, confidentiality, and a Class 1 misdemeanor for unauthorized access. **What it doesn't do:** unlike Illinois, California, or Washington, North Carolina law says *nothing* about sharing your data with federal agencies or across state lines. That silence is exactly what Asheville's 500-mile sharing radius drives through — and it means the protections Asheville residents get are only as strong as APD's own revisable policies. See [[Promise Tracker]].
 
-## NC's abuse cases arrived on schedule
+## NC's first criminal charges for camera misuse (July–August 2026)
 
 - **July 29, 2026** — a Charlotte-Mecklenburg officer became the **first in NC criminally charged** for an unauthorized Flock search.
 - **August 5, 2026** — a Mooresville officer was arrested for stalking his ex-wife through Flock: **31 searches**. Eleven more officers reportedly under investigation.

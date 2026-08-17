@@ -24,10 +24,10 @@ Motion by **John Shearl**, seconded by **Barry Breeden** (a former sheriff's dep
 
 The numbers that did it: **16 cameras (12 county, 4 schools), a $31,950 contract grown to ~$47,000/year, logging 1–3 million plates a month in a county of 37,000.**
 
-## The epilogue — what the record shows since
+## What's happened since the vote
 
-- **The four school cameras are the unfinished 20%** — commissioners deferred them to school leaders; the school system says **neither MCSO nor Flock has contacted them** about the cameras on their buildings. No school-board vote has ever been taken.
-- **A cautionary note:** the fight's social-media spillover included **false claims that Franklin had Flock cameras** (it has none), escalating to threats against town officials — which handed officials a warning-about-the-opposition story. Accuracy is a tactical asset; see [[How Cities Won]] on what backfires.
+- **The four school cameras are still unresolved** — commissioners deferred them to school leaders; the school system says **neither MCSO nor Flock has contacted them** about the cameras on their buildings. No school-board vote has ever been taken.
+- **A cautionary note:** the fight's social-media spillover included **false claims that Franklin had Flock cameras** (it has none), escalating to threats against town officials — which handed officials a warning-about-the-opposition story. Getting facts wrong hands officials a weapon; see [[How Cities Won]] on what backfires.
 
 ## Watchdogs and video
 

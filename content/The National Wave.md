@@ -1,5 +1,5 @@
 ---
-title: The National Wave
+title: The National Wave of Cancellations
 description: 50–100+ communities have dropped Flock and similar systems since 2025. The reasons read like a warning label for Asheville.
 ---
 
@@ -41,7 +41,7 @@ The independent evidence says: barely, if at all.
 - Flock's marquee claim — that its cameras help solve "10% of reported U.S. crime" — was company-funded, and six criminologists publicly rejected it; one called it borderline "ludicrous," another doubted it "would survive peer review." The researcher who oversaw it told 404 Media he had concerns about it. ([404 Media](https://www.404media.co/researcher-who-oversaw-flock-surveillance-study-now-has-concerns-about-it/) · [Forbes](https://www.forbes.com/sites/cyrusfarivar/2024/02/29/flock-ai-cameras-may-not-reduce-crime/))
 - Real-time crime centers show improved **case clearance** in some studies (Miami's RTCC-assisted cases cleared at meaningfully higher rates) — a real but modest benefit, concentrated after crimes occur, and nothing like the transformation the sales decks promise. ([Justice Evaluation Journal](https://www.tandfonline.com/doi/full/10.1080/24751979.2025.2475515))
 
-Austin's arithmetic is the honest summary: **117 million scans, 228 arrests.**
+Austin's arithmetic is the summary: **117 million scans, 228 arrests.**
 
 ## Axon and Fusus specifically
 
@@ -61,7 +61,7 @@ On cost: Axon bundles Fusus into multi-year "ecosystem" contracts — exactly As
 
 Under pressure, Flock has kept revising its guardrails: California lookups disabled (2025), required offense codes (Dec 2025), a federal-sharing off switch (Jan 2026), and — announced August 13, 2026 — a **7-day default retention**, offense filtering, and mandatory audit tools. The ACLU's response: the previous safeguards were circumvented with vague search entries, and [a company with this record has lost the credibility to self-regulate](https://www.aclu.org/news/privacy-technology/tracking-alpr-cameras/flock-safety-credibility-lost-as-it-repeatedly-lies-to-city-councils-police-departments-and-public-across-the-country). ([AP](https://www.spokesman.com/stories/2026/aug/16/flock-safety-tightens-safeguards-as-states-cities-/) · [ACLU response](https://www.aclu.org/press-releases/as-public-opposition-to-flock-grows-aclu-responds-to-surveillance-companys-new-updates))
 
-Note what that August announcement concedes: the vendor's own **recommended retention is now 7 days**. Asheville holds your data for 30.
+Flock's own **recommended retention is now 7 days**. Asheville holds your data for 30.
 
 ## What this means for Asheville
 

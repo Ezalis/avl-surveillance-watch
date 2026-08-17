@@ -12,7 +12,7 @@ description: Council member since 2017; proposed a community forum on the RTIC t
 
 Voted yes through the buildout, including both RTIC items on May 12, 2026 (each passed 6–1, Roney the sole no — [[2026-05-12 City Council|confirmed on the city's own video]]).
 
-The detail that distinguishes her record: **in March 2025, Smith suggested a community forum on the surveillance hub before proceeding. The forum was never held** — and she voted to proceed anyway, both then and in May 2026. ([CAMS chronology](https://camsavl.org/rtic-funding-vote/)) The gap between the instinct and the follow-through is the most precise question a voter can put to her.
+The detail that distinguishes her record: **in March 2025, Smith suggested a community forum on the surveillance hub before proceeding. The forum was never held** — and she voted to proceed anyway, both then and in May 2026. ([CAMS chronology](https://camsavl.org/rtic-funding-vote/)) She saw the need for a forum, didn't get one, and voted yes anyway — that's the question to ask her.
 
 ## In her words
 

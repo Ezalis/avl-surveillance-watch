@@ -1,5 +1,5 @@
 ---
-title: Before You Plug In
+title: Before You Connect Your Cameras
 description: For Asheville business owners being recruited into the police camera network — what you'd actually sign, what you'd be liable for, and the questions to ask in writing first.
 ---
 
@@ -17,7 +17,7 @@ The Fusus partner agreement (the [full boilerplate is public](https://connectlos
 
 ## 3. If something goes wrong, you're the defendant — not Axon
 
-The contract's liability section **waives damages between you and the city** — Nashville's Community Review Board, analyzing this exact template, concluded there are "no established civil or legal consequences that either party can enforce on the other" ([their report](https://www.nashville.gov/sites/default/files/2023-10/MNCO-FUSUS-Informational-Report-ADA.pdf)). Nobody indemnifies you. **Axon isn't even a party to the contract you'd sign.** Meanwhile, when Flock cameras at Home Depot's California stores drew a privacy class action, [the named defendant was Home Depot](https://www.snopes.com/fact-check/home-depot-flock-lawsuit/) — the camera host — not Flock. North Carolina recognizes the privacy tort of intrusion upon seclusion (*[Miller v. Brooks](https://law.justia.com/cases/north-carolina/court-of-appeals/1996/coa95-407-1.html)*). The structure is simple: the vendor gets the data, the police get the access, **you keep the risk**.
+The contract's liability section **waives damages between you and the city** — Nashville's Community Review Board, analyzing this exact template, concluded there are "no established civil or legal consequences that either party can enforce on the other" ([their report](https://www.nashville.gov/sites/default/files/2023-10/MNCO-FUSUS-Informational-Report-ADA.pdf)). Nobody indemnifies you. **Axon isn't even a party to the contract you'd sign.** Meanwhile, when Flock cameras at Home Depot's California stores drew a privacy class action, [the named defendant was Home Depot](https://www.snopes.com/fact-check/home-depot-flock-lawsuit/) — the camera host — not Flock. North Carolina recognizes the privacy tort of intrusion upon seclusion (*[Miller v. Brooks](https://law.justia.com/cases/north-carolina/court-of-appeals/1996/coa95-407-1.html)*). The vendor gets the data, the police get the access, and **you keep the risk**.
 
 ## 4. A camera with a microphone can be a felony
 
@@ -25,7 +25,7 @@ NC's wiretap law ([G.S. 15A-287](https://www.ncleg.net/enactedlegislation/statut
 
 ## 5. Integration makes you a records custodian
 
-A networked camera is **mapped as an evidence source for every agency in the system**. That means preservation holds when litigation looms (auto-overwrite becomes [spoliation exposure](https://www.gtlaw-ediscoverywatch.com/2025/02/preserving-camera-footage-in-anticipation-of-litigation/) — sanctions up to default judgment), and subpoenas from prosecutors *and* criminal defense attorneys in cases you know nothing about. Here's the thing the sales pitch omits: **without integration you already have the only power that matters** — police get your footage when you choose to share it or when they bring valid legal process. Integration surrenders your discretion and keeps your liability.
+A networked camera is **mapped as an evidence source for every agency in the system**. That means preservation holds when litigation looms (auto-overwrite becomes [spoliation exposure](https://www.gtlaw-ediscoverywatch.com/2025/02/preserving-camera-footage-in-anticipation-of-litigation/) — sanctions up to default judgment), and subpoenas from prosecutors *and* criminal defense attorneys in cases you know nothing about. The sales pitch omits this: **without integration you already have the only power that matters** — police get your footage when you choose to share it or when they bring valid legal process. Integration surrenders your discretion and keeps your liability.
 
 ## 6. Your insurance may not cover any of this
 

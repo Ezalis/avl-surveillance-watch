@@ -18,7 +18,7 @@ Every claim here links its evidence. Cite the source, not me — a fact traced t
 - On the night of the vote, searching the city's own council minutes archive and ashevillenc.gov returned **zero results for "Axon," "Fusus," or "RTIC"** — demonstrated on the record by a resident. ([[2026-05-12 City Council|city video, 0:25:56]])
 - Even Asheville Watchdog — not an activist outlet — editorialized that the city **"needs to be more transparent"** about the proposal. ([Asheville Watchdog](https://avlwatchdog.org/opinion-youre-on-camera-whether-you-like-it-or-not-but-asheville-needs-to-be-more-transparent-about-video-surveillance-proposal/))
 
-## The playbook, named — and the counters
+## Council's tactics, and how to counter them
 
 Every tactic below is documented in Asheville's own record. Name the tactic out loud at the podium — officials rely on these working *unnoticed*.
 

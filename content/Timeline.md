@@ -13,7 +13,7 @@ This is the spine of the record. Each entry links its sources. Where accounts co
 
 ## The quiet buildout (2024–2025)
 
-**2024 — The money is requested before the public knows.** City staff ask U.S. Rep. Chuck Edwards (R-NC-11) to earmark federal funds for a Real-Time Intelligence Center. Council is not informed. Residents learn of this sequence only later, through the work of [Communities Against Mass Surveillance](https://camsavl.org/rtic-funding-vote/).
+**2024 — The money is requested before the public knows.** In April 2024, APD and the office of U.S. Rep. [[Chuck Edwards]] (R-NC-11) connect over a federal earmark for a Real-Time Intelligence Center — accounts differ on who initiated the contact ([[Chuck Edwards|his page]] documents both versions). Edwards signs the formal request letter on **May 22, 2024**; his entire written justification is one sentence. Council is not informed. Residents learn of this sequence only later, through the work of [Communities Against Mass Surveillance](https://camsavl.org/rtic-funding-vote/).
 
 **April 2024 — Flock cameras go live.** APD deploys 11 Flock Safety license plate readers. Between April 2024 and December 2025 they scan roughly **3.1 million plates** — in a city of about 95,000 people — with data shared with agencies across a **500-mile, multi-state radius**. APD also runs Axon in-car plate readers and roughly two dozen drones. ([Asheville Watchdog](https://avlwatchdog.org/opinion-youre-on-camera-whether-you-like-it-or-not-but-asheville-needs-to-be-more-transparent-about-video-surveillance-proposal/), [Annie Dance / Cops & Congress](https://anniedance.substack.com/p/asheville-expands-regional-surveillance))
 
@@ -21,7 +21,7 @@ This is the spine of the record. Each entry links its sources. Where accounts co
 
 **March 25, 2025 — First RTIC money, buried on the consent agenda.** A $71,999 federal grant for RTIC equipment — video wall, workstations — is placed on the consent agenda, the part of the meeting reserved for routine, undebated items. Roney pulls it for discussion and submits **29 written questions** to APD about data access, control, and constitutional implications. The questions go unanswered. It passes 6–1, along with six other police funding items. Council member Sheneika Smith says on the record "I kind of feel robbed of having those conversations," and suggests a community forum; it is never held. Bo Hess carries the item with "we're not buying surveillance, we're buying chairs" — while conceding the center "already exists." Full anatomy: [[2025-03-25 City Council]]. ([BPR](https://www.bpr.org/bpr-news/2025-03-26/last-night-at-council-asheville-approves-funding-for-police-surveillance-hub), [CAMS](https://camsavl.org/rtic-funding-vote/))
 
-**February 2026 — The $1.14M lands.** The Community Project Funding earmark secured by Rep. Edwards comes through: $1.14 million, administered by the Department of Justice. The DOJ's conditions are published only after acceptance. ([CAMS](https://camsavl.org/rtic-funding-vote/))
+**February 2026 — The $1.14M lands.** The Community Project Funding earmark secured by Rep. [[Chuck Edwards]] comes through: $1.14 million, administered by the Department of Justice. The DOJ's conditions are published only after acceptance. ([CAMS](https://camsavl.org/rtic-funding-vote/))
 
 ## The fight (April–May 2026)
 
@@ -40,7 +40,7 @@ This is the spine of the record. Each entry links its sources. Where accounts co
 > [!note] Verified from the city's own video
 > Press coverage disagreed on the vote count (4–1, 5–1, and 6–1 all appeared). The city's own recording settles it: the chair states on video, "the vote was **6 to 1** in favor of item B1," and B2 followed 6–1 as well. The B1 vote was taken **off-microphone amid shouting, seconds after public comment closed** — a council member had to announce "in case you didn't notice, there was just a vote." Full minute-by-minute reconstruction with video timestamps: [[2026-05-12 City Council]].
 
-**May 25, 2026 — RE:FUSUS.** CAMS throws a surveillance-awareness social at DayTrip: DJ sets and a Q&A with Benn Jordan, Kim Roney, Colonel Panic, and Patrick Conant. ([Sunshine Labs](https://www.sunshinelabs.org/sos-sunshine-over-surveillance/))
+**May 25, 2026 — RE:FUSUS.** CAMS throws a surveillance-awareness social at DayTrip: DJ sets and a Q&A with [[Benn Jordan]] — the researcher whose Flock investigations reached national press — plus Kim Roney, Colonel Panic, and Patrick Conant. ([Sunshine Labs](https://www.sunshinelabs.org/sos-sunshine-over-surveillance/))
 
 **May 28, 2026 — The mayoral race becomes the referendum.** At the first Roney–Manheimer debate, surveillance is a headline clash. Roney raises "a billionaire-owned, AI-fueled, for-profit tech company... working with ICE" surveilling without warrants; Manheimer frames the grant as cost savings. ([BPR](https://www.bpr.org/politics-government/2026-05-28/at-the-first-asheville-mayor-debate-roney-and-manheimer-clash-over-transparency-and-surveillance))
 
