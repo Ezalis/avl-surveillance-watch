@@ -16,6 +16,7 @@ That's how mass surveillance came to Asheville: not through public debate, but a
 - **[[What Is the RTIC]]** — Plain-language explainer on what was actually approved.
 - **[[Claims Library]]** — Citable, sourced facts for petitions, letters, op-eds, and arguments with your uncle.
 - **[[Election 2026]]** — Where every candidate stands — including the ones staying silent. Early voting starts **Oct 15**.
+- **[[People/index|People]]** — Profiles of every official and candidate: their votes, their words, their silence.
 - **[[Promise Tracker]]** — What APD promised on the record, and whether it holds.
 - **[[The National Wave]]** — 50+ communities have dropped these systems. Why.
 - **[[WNC and NC]]** — Macon County removed its cameras. What our neighbors are doing.
