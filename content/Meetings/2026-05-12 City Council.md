@@ -72,4 +72,4 @@ Read the minutes next to the video and notice what the official record smooths a
 5. **As of the night of the vote, the city's own searchable records contained nothing** — zero results for Axon, Fusus, or RTIC in the council minutes archive and on ashevillenc.gov, demonstrated on the record by a resident.
 6. Council's engagement with the substance — the ACLU letter, the Flock contract's disclosure loophole, the contract terms nobody had seen — happened, where it happened at all, **after the vote**.
 
-*This is the first page in the Meetings series, built from the city's full meeting-video archive — 102 meetings' transcripts and counting. See [[Timeline]] · [[Speak at Council]] · [[Promise Tracker]]*
+*Part of the Meetings series, built from the city's full meeting-video archive — 102 meetings' transcripts and counting. Companion: [[2026-04-28 Work Session|April 28: The Sales Pitch]]. See [[Timeline]] · [[Speak at Council]] · [[Promise Tracker]]*

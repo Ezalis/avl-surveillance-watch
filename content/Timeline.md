@@ -61,6 +61,6 @@ This is the spine of the record. Each entry links its sources. Where accounts co
 ## What's next
 
 - **Aug 25, 2026** — City Council regular meeting (2nd/4th Tuesdays, 5 PM, City Hall)
-- **Aug 27, 2026** — Public Safety Committee (last Thursday of odd months, 11 AM, virtual)
+- **Sept 24, 2026** — Public Safety Committee (last Thursday of odd-numbered months, 11 AM, virtual)
 - **Oct 15 – Nov 3, 2026** — Early voting → Election Day. See [[Election 2026]]
 - **Spring/summer 2027** — RTIC operational target. The [[Promise Tracker]] starts now.

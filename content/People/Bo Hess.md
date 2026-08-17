@@ -11,7 +11,13 @@ The RTIC's most vocal advocate on council. Voted yes on May 12, 2026, and author
 
 ## In his words
 
-"When you actually responsibly deploy technology like drones and real time intelligence... you actually de-escalate the risk for officers and our citizens."
+At the March 25, 2025 council meeting, arguing for the first RTIC funding ([BPR, Mar 26, 2025](https://www.bpr.org/bpr-news/2025-03-26/last-night-at-council-asheville-approves-funding-for-police-surveillance-hub)):
+
+> "When you actually responsibly deploy technology like drones and real time intelligence, what you do is you actually de-escalate the risk for officers and our citizens." And: "You're removing the need to send an officer blindly into a dangerous situation and that lowers the chance of use-of-force incidents." He pointed to Durham: "They didn't throw out public safety, they modernized it."
+
+He also claimed, same meeting [(37:05)](https://www.youtube.com/live/Bc-VVlvBx0U&t=2225s): "Over 95% of our APD officers are trained in crisis intervention" — the last public figure was 90%, and DOJ's evidence clearinghouse rates CIT "Ineffective" at reducing use of force.
+
+**The full researched counter — no study anywhere has ever measured drones or RTCCs reducing use of force; the false-positive record runs the other way; and his own example city, Durham, rejected ShotSpotter, declined an RTCC, and scaled *unarmed* response instead — is in [[Their Claims vs The Record|Their Claims vs. The Record]].** His committee (next meeting **Sept 24, 11 AM**) is where it lands hardest.
 
 ## Why he matters now
 

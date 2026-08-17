@@ -8,7 +8,7 @@ You get three minutes. The May 12 vote proved that showing up isn't enough on it
 ## Where and when
 
 - **City Council** — 2nd and 4th Tuesdays, 5 PM, Council Chamber, City Hall (70 Court Plaza). **Next: Tuesday, Aug 25.** Agendas post the [Friday before](https://www.ashevillenc.gov/government/city-council-agenda/); check whether anything surveillance-related is on the consent agenda — that's where it's been buried twice.
-- **Public Safety Committee** — last Thursday of odd months, 11 AM, virtual ([livestream](https://publicinput.com/d81053)). **Next: Thursday, Aug 27.** Chaired by Bo Hess, the RTIC's strongest supporter, with Mosley and Smith. This is where implementation oversight actually happens, and almost nobody attends.
+- **Public Safety Committee** — last Thursday of odd-numbered months, 11 AM, virtual ([livestream](https://publicinput.com/d81053)). **Next: Thursday, Sept 24** (confirmed on the [city's committee page](https://www.ashevillenc.gov/government/city-council-committees/public-safety-committee/)). Chaired by Bo Hess, the RTIC's strongest supporter, with Mosley and Smith. This is where implementation oversight actually happens, and almost nobody attends.
 - **Anytime:** email **avl-city-council@publicinput.com** (goes to all members and into the record) · voicemail 855-925-2801, code 10332 · individual members' emails are on the [city roster](https://www.ashevillenc.gov/government/meet-city-council/).
 - **RTIC tours** — every other Thursday, 2–4 PM, register at 828-259-5881. Go with the [[Promise Tracker]] and write down what they tell you.
 

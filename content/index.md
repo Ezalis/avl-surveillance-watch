@@ -11,7 +11,7 @@ That's how mass surveillance came to Asheville: not through public debate, but a
 
 ## Use this site
 
-- **[[Speak at Council]]** — You get 3 minutes. Here's what's been said, what's unanswered, and how the process works. Next meetings: council **Tuesday, Aug 25** · Public Safety Committee **Thursday, Aug 27**.
+- **[[Speak at Council]]** — You get 3 minutes. Here's what's been said, what's unanswered, and how the process works. Next meetings: council **Tuesday, Aug 25** · Public Safety Committee **Thursday, Sept 24**.
 - **[[Timeline]]** — What happened, when, with receipts. Start here if you're new.
 - **[[2026-05-12 City Council|The May 12 Vote]]** — Minute-by-minute anatomy of the midnight vote, from the city's own video.
 - **[[The Check-In Meetings]]** — The private three-by-three meetings where council business gets decided before the public ever sees it.

@@ -15,6 +15,6 @@ This site is a reference, not an organization. These are the people doing the or
 
 ## Three things you can do this month
 
-1. **Show up.** Council meets Aug 25 (5 PM, City Hall); the Public Safety Committee meets Aug 27 (11 AM, virtual). See [[Speak at Council]].
+1. **Show up.** Council meets Aug 25 (5 PM, City Hall); the Public Safety Committee meets Sept 24 (11 AM, virtual). See [[Speak at Council]].
 2. **Take the tour.** APD runs public RTIC tours every other Thursday, 2–4 PM (828-259-5881). Go with questions from the [[Promise Tracker]] and write down the answers.
 3. **Ask the candidates.** Not one questionnaire this cycle asked about surveillance. See [[Election 2026]] and put the question to them directly — in public, on the record.
