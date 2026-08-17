@@ -61,7 +61,17 @@ After Roney's presentation ("...why I had to vote no"), the second item — the 
 
 The [City Clerk's minutes](https://docs.google.com/document/d/1J0VNbOtglQSb3nRjbg6-Bw_Q1w6of6aCNId0TDL5NlQ/edit) record: all seven members present; **[[Bo Hess]] moved and [[Maggie Ullman]] seconded both items**; both "carried on a 6-1 vote, with Councilwoman Roney voting 'no.'" The minutes count **22 speakers in opposition** during public comment. What was enacted: Resolution 26-97 (the civil-liberties resolution), Resolution 26-98 (grant acceptance), Ordinance 5222 (the $1,141,255.56 budget amendment), and Resolution 26-99 — which *authorized* the City Manager to sign the Axon contract. The signed contract itself has still never been made public. All primary documents: [[Documents]].
 
-Read the minutes next to the video and notice what the official record smooths away: the minutes show a routine 6–1; the video shows a vote taken off-mic amid shouting that had to be announced to the room. Both are true. That's why this archive keeps both.
+Read the minutes next to the video and notice what the official record smooths away: the minutes show a routine 6–1; the video shows a vote taken off-mic amid shouting that had to be announced to the room. Both are true. That's why this archive keeps both. The minutes also record: **22 of 23 public speakers opposed**; adjournment at **11:59 PM**.
+
+## What the full document packet reveals
+
+Deeper findings from the staff reports, presentations, and minutes (all linked at [[Documents]]):
+
+- **The contract was still being negotiated during the vote.** City Attorney Branham told council his office "has been reviewing the terms with the software provider" and that Axon had "expressed willingness" to add provisions — present tense, at the meeting. Council authorized a 7.5-year commitment whose terms did not yet exist in final form. The staff report's attachment list confirms: resolution only, **no contract, no pricing exhibit**.
+- **A promised committee review was skipped.** APD's own April 28 presentation timeline promised the Axon contract would go to the **Public Safety Committee** before council. It never did — the B.2 staff report lists Committees: "None."
+- **The grant was accepted before its conditions were known.** The staff report states DOJ award terms "will be set at the Federal level" and staff would review them *after* receipt to "determine the City's ability and willingness to comply."
+- **The letters, settled.** DA Todd Williams' letter (dated April 30) and US Attorney Russ Ferguson's letter (**dated May 12 — the day of the vote**) were excerpted aloud by Chief Stepp. And the NC Attorney General letter is real: **Mayor Manheimer read Jeff Jackson's letter into the record** — a conditional endorsement hedged, in his own words, "**Based on what APD has described**." The state's top law-enforcement officer evaluated a description, not documents, because there were none to evaluate. None of the three letters appears in the public meeting packet.
+- **The numbers kept moving.** Between April 28 and May 12, the video wall went from ~$400K to ~$500K, "brick and mortar" from ~$250K to ~$173K, and the funding coverage from "7 years" to "7.5" to "8" depending on the slide; the grant amount itself appears as three different figures across the staff report, minutes, and presentation.
 
 ## What the record now establishes
 

@@ -39,7 +39,7 @@ The RTIC was sold with specific, quotable claims. This page holds each one next 
 
 **The claim.** Stepp, repeatedly; Axon's rep: "We also do not use any form of facial recognition."
 
-**The record.** There is **no ban** — not in ordinance, not in the (unreleased) contract. GAP asked council to adopt one; council didn't. The platform's capabilities are set by the vendor's roadmap, and both major vendors add AI features mid-contract — which is why the cities that mean it require a **council vote before any new capability activates** ([[How Cities Won]]). A policy of not using a feature the vendor can switch on is a preference, not a protection.
+**The record.** The exclusion exists only in Resolution 26-97 — a resolution, **not an ordinance**: no enforcement mechanism, no penalty, reversible by any future council in one vote, and unverifiable against the still-unreleased contract. The platform's capabilities are set by the vendor's roadmap, and both major vendors add AI features mid-contract — which is why the cities that mean it require a **council vote before any new capability activates** ([[How Cities Won]]). A commitment without a mechanism is a preference, not a protection. Notably, even NC Attorney General Jeff Jackson's letter of support — read into the record by Mayor Manheimer on May 12 — hedged its every finding with "**Based on what APD has described**": the state's top law-enforcement officer evaluated the description, not the documents, because the documents weren't available.
 
 ## "Drones and real-time intel de-escalate" — the deep dive
 
@@ -73,13 +73,26 @@ The RTIC was sold with specific, quotable claims. This page holds each one next 
 
 **The claim.** Mayor Manheimer: "we received a grant from the federal government to be able to pay for our own" — and framed Roney as voting "against a grant that would help save the city money." ([BPR](https://www.bpr.org/politics-government/2026-05-28/at-the-first-asheville-mayor-debate-roney-and-manheimer-clash-over-transparency-and-surveillance))
 
-**The record.** The grant covers the buildout. The **7.5-year Axon obligation** — with the ~25%/year escalation pattern Axon markets to investors as its "Flywheel of Growth," on cooperative pricing with no locally negotiated terms — is Asheville's. LA, Austin, and Denver all concluded the ongoing costs weren't worth the audited results.
+**The record — the arithmetic, from the city's own May 12 staff reports ([[Documents]]):**
 
-## The sheriff's crime-drop claims
+- **Status quo:** $30,000/year to the county, all-in. No staff, no facility, no renewal risk.
+- **"Our own":** the grant covers a room and prepays Fusus (~$467K) for ~7 years. Asheville then owns: the bundled Axon payments (**$740,000 in FY27, $777,500 in FY28** per the staff report — trajectory rising), an RTIC staff (dispatcher, supervisor, two operators — plausibly $250K+/year), facility operations, and the **post-2033 software renewal at whatever Axon then charges**. The staff report's own documented bundling savings over the entire 7.5-year contract: **$46,948.25** — about what the city pays the county for 18 months of access today.
+- **The escalation baseline is Axon's own investor pitch:** net revenue retention of **124–126% for 20+ consecutive quarters** — the same customers paying ~25% more each year. A resident literally submitted Axon's investor deck as public comment on May 12; it's in the city's own meeting folder.
+- **The question that was never answered:** Patrick Conant asked council, on the record, "What is the ongoing operational cost after the grant runs out?" No answer has ever been given publicly. The honest framing is "the grant lets us buy a much bigger capability" — the *savings* framing fails unless total cost of ownership comes in under $30K/year, which nothing in the record supports. One sentence carries it: **the city replaced a $30,000-a-year subscription with a facility that will cost more than that per month to staff — and called it saving money.**
 
-**The claim.** Sheriff Miller credits the county RTIC for consecutive annual crime reductions. ([WLOS](https://wlos.com/news/local/crime-takes-a-dive-in-buncombe-county-sheriff-credits-community-connection-innovative-technology-north-carolina-state-bureau-of-investigations-annual-crime-report-real-time-intelligence-center))
+## The sheriff's crime-drop claims — the deep dive
 
-**The record.** Crime fell nationally over the same period; correlation claimed by the system's owner isn't causation, and the independent literature keeps failing to find the deterrent effect. Atlanta built 5,000 cameras while its homicide clearance rate *dropped*. If the county RTIC drives the numbers, an independent evaluation would show it — none exists.
+**The claim.** Sheriff Miller credits the county RTIC for consecutive annual crime reductions — headline: a "15% countywide crime drop" in 2022. ([WLOS](https://wlos.com/news/local/crime-takes-a-dive-in-buncombe-county-sheriff-credits-community-connection-innovative-technology-north-carolina-state-bureau-of-investigations-annual-crime-report-real-time-intelligence-center))
+
+**The record — the state's own data, [SBI annual summaries](https://www.ncsbi.gov/Services/Crime-Statistics/Crime-in-North-Carolina-Annual-Summaries/2022-Annual-Summary.aspx):**
+
+- **The 15% wasn't countywide.** SBI Table 5 shows the −14.7% applied only to the Sheriff's *unincorporated-county slice* (~28% of county crime). Countywide, the 2022 drop was **−5.6%** — and countywide **violent crime rose 12.7%** the same year. This critique was first made publicly by **then-Rep. Chuck Edwards — the man who later funded Asheville's RTIC** — in a 2023 op-ed titled "No, crime is not dropping in Buncombe County."
+- **The trend predates the cameras.** Countywide rates fell in 2019→2020 and 2020→2021, before the RTIC was operational — whatever drove the trend wasn't the thing that didn't exist yet.
+- **Then the claim expired.** In 2024, with ~1,800 cameras running, the Sheriff's jurisdiction went **+1% while the state fell 4.2%** and national property crime hit its lowest level since 1961. BCSO burglary: **+42%**. BCSO violent crime had already spiked **+52% in 2023**. If the RTIC caused the 2022 drop, what caused the 2024 rise?
+- **The comparison that ends the argument:** countywide index rates 2021→2024 — Buncombe (RTIC) **−24.6%**; **Catawba County (no crime center at all) −42.2%**. And within Buncombe, the biggest drops came from *Asheville PD* — which had no RTIC of its own, just a $30K access subscription.
+- **No independent evaluation of the BCSO RTIC has ever been conducted.** Every claim traces to the Sheriff's own releases. The academic literature's verdict on RTCCs generally: "a dearth of evaluation research," with the favorable findings limited to case clearance, not crime rates. ([Justice Quarterly](https://www.tandfonline.com/doi/full/10.1080/07418825.2023.2264362))
+
+*Data hygiene for anyone using this: always name the jurisdiction (Sheriff's slice ≠ countywide ≠ Asheville), cite the SBI table and year, and prefer sheriff-to-sheriff comparisons — this is the version that survives a hostile fact-check.*
 
 ## The vendors' own claims — already fact-checked
 
