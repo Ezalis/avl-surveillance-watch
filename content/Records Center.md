@@ -119,6 +119,14 @@ A request needs no magic words. State that you are requesting public records und
 
 **What it proves:** the state-operated mesh around the city — the layer no local vote can touch, which is exactly why voters should see it. ([[Who Gets Watched]]) — **Status: not yet filed**
 
+### 13. The unrecorded meeting and the resolution that vanished
+
+**To: City of Asheville.** The [[The Committee|Public Safety Committee]] meeting that advanced the RTIC grant — March 26, 2026 — is the only 2025–26 committee meeting with **no published recording**. And in November 2025, callers referenced a protective resolution (addressing ICE and surveillance) that was drafted and then tabled without ever reaching a council agenda.
+
+> Under N.C.G.S. Chapter 132, I request: (1) the approved minutes, any staff notes, agenda materials, and any audio or video recording of the March 26, 2026 Public Safety Committee meeting, and records sufficient to show whether the meeting was streamed or recorded and, if a recording existed, its disposition; (2) all drafts of, and correspondence concerning, the resolution addressing surveillance technology and federal immigration enforcement referenced during public comment at the November 20, 2025 Public Safety Committee meeting, including records showing who requested it be drafted and the decision not to place it on an agenda.
+
+**What it proves:** why the one meeting that formally advanced the RTIC is the one gap in the archive — and who killed the protective resolution the public was told to wait for. — **Status: not yet filed**
+
 ## When they say no
 
 Expect these, and know what each refusal means:

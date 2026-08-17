@@ -27,6 +27,7 @@ That's how mass surveillance came to Asheville: not through public debate, but a
 - **[[The Check-In Meetings]]** — The private three-by-three meetings where council business gets decided before the public ever sees it.
 - **[[The People Who Showed Up]]** — 36 residents, nine meetings, all but one opposed: the community's strongest arguments, verbatim and timestamped.
 - **[[Oversight Theater]]** — Thirty-five years of promised police oversight in Asheville, and the powerless versions delivered every time.
+- **[[The Committee]]** — Every recorded Public Safety Committee meeting, reviewed: zero RTIC oversight, 93 people charged under the ordinance it did advance — and the one meeting that touched the RTIC has no recording.
 - **[[Promise Tracker]]** — What APD promised on the record, and whether it holds.
 - **[[Their Claims vs The Record|Their Claims vs. The Record]]** — Every claim used to sell the RTIC, quoted exactly, answered with the documented record.
 
