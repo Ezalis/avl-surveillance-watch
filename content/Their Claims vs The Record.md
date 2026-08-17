@@ -3,13 +3,13 @@ title: Their Claims vs. The Record
 description: Every claim used to sell the RTIC — quoted exactly, sourced — paired with the documented record that answers it.
 ---
 
-The RTIC was sold with specific, quotable claims. This page holds each one next to the record. Nothing here is paraphrased unfairly: quotes are verbatim from the cited coverage, and where we only have a paraphrase, we say so. Use it at the podium, in letters, and whenever someone repeats the sales pitch.
+The RTIC was sold with specific, quotable claims. This page holds each one next to the record. Nothing here is paraphrased unfairly: quotes are verbatim from the cited coverage, and where I only have a paraphrase, I say so. Use it at the podium, in letters, and whenever someone repeats the sales pitch.
 
 ## "It solves crime" / "This is about victims"
 
 **The claim.** [[Jackie Stepp|Chief Stepp]], May 12: "This is about improving emergency response, investigative efficiency, transparency and officer accountability." "Time is often the difference between life and death." "This is not about software — this is about victims." ([828NewsNow](https://828newsnow.com/news/228822-asheville-oks-real-time-police-intelligence-center-despite-public-backlash/) · [Annie Dance](https://anniedance.substack.com/p/asheville-expands-regional-surveillance)) The flagship proof offered: the March 2025 Hillcrest shooting, where Flock located the fleeing vehicle "almost instantly" (Capt. Silberman, [WLOS](https://wlos.com/news/local/asheville-police-department-plate-reader-technology-assists-shooting-arrest-city-council-debate-flock-axon-apd-joe-silberman)).
 
-**The record.** One anecdote is not an evaluation. APD has offered **no aggregate statistics** — no arrests-attributable count, no response-time data — in any coverage we can find. The independent literature shows plate readers help solve *some* cases and **deter nothing** ([[The National Wave]]); Austin's full-program arithmetic was 117 million scans for 228 arrests; Atlanta's homicide clearance rate *fell* during a 5,000-camera buildout. If the RTIC's benefits were measurable, the measurements would be on the table. Ask for them.
+**The record.** One anecdote is not an evaluation. APD has offered **no aggregate statistics** — no arrests-attributable count, no response-time data — in any coverage I can find. The independent literature shows plate readers help solve *some* cases and **deter nothing** ([[The National Wave]]); Austin's full-program arithmetic was 117 million scans for 228 arrests; Atlanta's homicide clearance rate *fell* during a 5,000-camera buildout. If the RTIC's benefits were measurable, the measurements would be on the table. Ask for them.
 
 ## "There's a really robust audit trail" / "100% of the time, we have reasons"
 

@@ -38,7 +38,7 @@ The RTIC's stated purpose is responding to violent crime. Nothing in the approve
 
 APD, under [[Jackie Stepp|Interim Chief Jackie Stepp]], with quarterly *internal* audits. The center is expected fully operational **spring/summer 2027**. Public tours run every other Thursday, 2–4 PM (828-259-5881).
 
-## Why we think you should care
+## Why I think you should care
 
 Asheville already lived through a demonstration of what this infrastructure does under pressure: in 2020, APD tear-gassed protesters and destroyed a medic station, then spent six figures on a PR firm to manage the fallout. The RTIC is that same institution, given a permanent, city-wide, real-time sensory system — approved at midnight, without the contract on the table, over the objection of nearly every resident who managed to speak. The question isn't whether today's APD means well. It's what this system makes possible for whoever controls it between now and 2033.
 

@@ -34,7 +34,7 @@ The headline: **on November 3, 2026, four of the six councilmembers who voted ye
 | [[Quentin Miller]] | Sheriff, seeking a 3rd term | 2018 | Built the ~2,000-camera Fusus network (~1,500 in schools); crime-drop claims his own SBI data undermines |
 | [[Gary Parris]] | Republican nominee | — | Challenger — stance tracking |
 
-**Also on the ballot:** [[Martin Moore]] (county commissioner; effectively incoming District Attorney — no Republican filed); **US House NC-11**: [[Jamie Ager]] (D) vs. [[Jennifer Balkcom]] (R — substituted onto the ballot in August 2026 after **Chuck Edwards, whose earmark funded the RTIC, withdrew** following a House Ethics report); and **three Buncombe school-board seats** (Reynolds, Enka, Erwin districts) — relevant because ~1,500 school cameras feed the sheriff's network with no board vote we can find ([[Buncombe County]]).
+**Also on the ballot:** [[Martin Moore]] (county commissioner; effectively incoming District Attorney — no Republican filed); **US House NC-11**: [[Jamie Ager]] (D) vs. [[Jennifer Balkcom]] (R — substituted onto the ballot in August 2026 after **Chuck Edwards, whose earmark funded the RTIC, withdrew** following a House Ethics report); and **three Buncombe school-board seats** (Reynolds, Enka, Erwin districts) — relevant because ~1,500 school cameras feed the sheriff's network with no board vote I can find ([[Buncombe County]]).
 
 ## Not on a ballot until November 2028
 

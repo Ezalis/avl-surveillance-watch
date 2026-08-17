@@ -39,7 +39,7 @@ City Attorney Brad Branham's defense over the years has been consistent: the mee
 
 **What's documented:** the check-in system existed before, during, and after the RTIC approvals; every RTIC vote arrived at the public meeting and passed 6–1 with no council deliberation visible beyond Roney's dissents; on May 12 the motion was seconded before public comment began and the vote came [[2026-05-12 City Council|six seconds after the last speaker]].
 
-**What's not documented:** no outlet has established that the RTIC votes were specifically pre-counted in check-ins. There are no minutes — that's the point. So we say it precisely: *a council that privately pre-discusses its agenda in unminuted groups of three produced surveillance votes that were, in public, foregone conclusions.* Whether that's coordination or coincidence is exactly the question the missing minutes make unanswerable — and that's the indictment.
+**What's not documented:** no outlet has established that the RTIC votes were specifically pre-counted in check-ins. There are no minutes — that's the point. So I say it precisely: *a council that privately pre-discusses its agenda in unminuted groups of three produced surveillance votes that were, in public, foregone conclusions.* Whether that's coordination or coincidence is exactly the question the missing minutes make unanswerable — and that's the indictment.
 
 ## Asheville's open-meetings record
 

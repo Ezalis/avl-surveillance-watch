@@ -19,7 +19,7 @@ So the May 12 vote authorized the city manager to sign a contract that had not b
 
 ## The "one camera" plan, explained by its supporters [(38:10)](https://www.youtube.com/watch?v=I0PFVrO9CRQ&t=2290s)
 
-This meeting is where the Flock "wind-down" got its only real public examination — and its supporters explained our case for us. Roney surfaced the plan and rejected it: "I understood that we were headed in the direction of moving away, but maybe keeping one so that we have access to the network... **I think even having one of them isn't good for our community**... I just want us to have an answer around timelines." (No timeline was ever given.)
+This meeting is where the Flock "wind-down" got its only real public examination — and its supporters explained my case for me. Roney surfaced the plan and rejected it: "I understood that we were headed in the direction of moving away, but maybe keeping one so that we have access to the network... **I think even having one of them isn't good for our community**... I just want us to have an answer around timelines." (No timeline was ever given.)
 
 Stepp gave the rationale [(38:48)](https://www.youtube.com/watch?v=I0PFVrO9CRQ&t=2328s): "we do intend to continue having access to the Flock system. There's so many agencies here locally that utilize that system... it's just imperative... to be able to **retain access to the system**." Turner then restated it with perfect clarity [(41:49)](https://www.youtube.com/watch?v=I0PFVrO9CRQ&t=2509s):
 

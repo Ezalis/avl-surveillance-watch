@@ -3,7 +3,7 @@ title: Records Center
 description: The public-records requests that would answer this site's open questions — pre-written, addressed, and tracked. Copy, paste, file. Refusals are answers too.
 ---
 
-This site documents what officials said. Public records show what they did. North Carolina's public records law gives **any person** — you, no residency requirement, no reason needed — the right to inspect the records below. This page is the queue: every request pre-written, addressed to the right custodian, with what it would prove. When one gets filed or answered, we'll mark it here.
+This site documents what officials said. Public records show what they did. North Carolina's public records law gives **any person** — you, no residency requirement, no reason needed — the right to inspect the records below. This page is the queue: every request pre-written, addressed to the right custodian, with what it would prove. When one gets filed or answered, I'll mark it here.
 
 **Two things to know before your first request:**
 
@@ -89,7 +89,7 @@ A request needs no magic words. State that you are requesting public records und
 
 ### 9. The schools MOU nobody voted on
 
-**To: Buncombe County Schools.** ~1,500 cameras across 43+ schools joined the Sheriff's Fusus network via a late-2021 MOU. We can find **no board vote, no MOU text, no parent notification.** ([[Buncombe County]])
+**To: Buncombe County Schools.** ~1,500 cameras across 43+ schools joined the Sheriff's Fusus network via a late-2021 MOU. I can find **no board vote, no MOU text, no parent notification.** ([[Buncombe County]])
 
 > Under N.C.G.S. Chapter 132, I request: (1) the memorandum of understanding (and any amendments) between Buncombe County Schools and the Buncombe County Sheriff's Office concerning camera access via the Fusus platform, executed on or about 2021; (2) board agenda items, minutes, or votes referencing it; (3) any notification provided to parents or guardians concerning law-enforcement access to school cameras; (4) current policy governing when and how deputies may access school camera feeds.
 
@@ -137,6 +137,6 @@ Expect these, and know what each refusal means:
 - **Attorney-client privilege.** Real, but it covers advice — not the fact that advice exists, was delivered, or wasn't.
 - **Silence.** NC law requires production "as promptly as possible" but sets no deadline; agencies sometimes just... don't. A polite follow-up citing the statute, then a copy to a reporter, works better than anger. The [NC Open Government Coalition's Sunshine Center](https://opengovt.elon.edu/) offers free help, and [Sunshine Request](https://www.sunshinerequest.com/) files and publishes requests for WNC residents.
 
-Every response — and every non-response — feeds back into this site: the [[Promise Tracker]], [[Documents]], and the pages above. File one, tell us, and we'll track it here.
+Every response — and every non-response — feeds back into this site: the [[Promise Tracker]], [[Documents]], and the pages above. File one, tell me, and I'll track it here.
 
 *Related: [[Documents]] · [[Get Involved]] · [[Promise Tracker]] · [[Their Claims vs The Record]] · [[Speak at Council]]*

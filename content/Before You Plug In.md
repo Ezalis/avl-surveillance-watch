@@ -5,7 +5,7 @@ description: For Asheville business owners being recruited into the police camer
 
 *Community research, not legal advice — consult your attorney and your insurance agent. Every claim below links its source, including the actual contract text.*
 
-APD's Real-Time Intelligence Center will ask Asheville businesses to connect their cameras — either **registering** them (police know your camera exists and request footage) or **integrating** them (police get direct access through Axon's Fusus platform, on a device businesses in other cities buy for ~$350 plus $150/year, auto-renewing). The Chamber recruited for the county's version of this in 2023, with the tourism bureau's marketing arm distributing the campaign. Before you sign anything, read what the paper actually says — because we did.
+APD's Real-Time Intelligence Center will ask Asheville businesses to connect their cameras — either **registering** them (police know your camera exists and request footage) or **integrating** them (police get direct access through Axon's Fusus platform, on a device businesses in other cities buy for ~$350 plus $150/year, auto-renewing). The Chamber recruited for the county's version of this in 2023, with the tourism bureau's marketing arm distributing the campaign. Before you sign anything, read what the paper actually says — because I did.
 
 ## 1. "Owner control" isn't in the contract
 

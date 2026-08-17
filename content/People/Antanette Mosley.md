@@ -14,7 +14,7 @@ Voted yes at every stage of the buildout — the 2023 Fusus interlocal, the 2025
 
 ## In her words
 
-This is the shortest section on this page for a reason: **we could find no substantive public statement from Mosley on the RTIC, Fusus, Flock, or surveillance generally** — not at council, not on the campaign trail, not in any candidate questionnaire (as of Aug 17, 2026). GAP of Asheville reported that constituent advocacy to council members before the vote received no substantive responses.
+This is the shortest section on this page for a reason: **I could find no substantive public statement from Mosley on the RTIC, Fusus, Flock, or surveillance generally** — not at council, not on the campaign trail, not in any candidate questionnaire (as of Aug 17, 2026). GAP of Asheville reported that constituent advocacy to council members before the vote received no substantive responses.
 
 ## The BID seat
 

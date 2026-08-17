@@ -170,6 +170,6 @@ You can be next: [[Speak at Council]].
 | May 12, 2026 | Regular City Council — [[2026-05-12 City Council|**the RTIC vote**]] (both items passed 6–1) | [youtube.com/watch?v=AfdrH-a92As](https://www.youtube.com/watch?v=AfdrH-a92As) |
 | May 26, 2026 | Regular City Council / budget hearing | [youtube.com/watch?v=Ve1dEYMm6o0](https://www.youtube.com/watch?v=Ve1dEYMm6o0) |
 
-*Spot an error in a name or quote? Every entry links to the video — tell us and we'll fix it. That's the standard this page holds council to, so it's the standard we hold ourselves to.*
+*Spot an error in a name or quote? Every entry links to the video — tell me and I'll fix it. That's the standard this page holds council to, so it's the standard I hold myself to.*
 
 *Related: [[Speak at Council]] · [[2026-05-12 City Council]] · [[Who Gets Watched]] · [[Get Involved]]*

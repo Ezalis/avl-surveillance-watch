@@ -3,7 +3,7 @@ title: The Committee
 description: Asheville's Public Safety Committee is where RTIC oversight officially lives. A meeting-by-meeting review of every recording shows what it actually does instead — and the one meeting that advanced the RTIC has no recording at all.
 ---
 
-When Asheville officials answer surveillance concerns with "there's oversight," they mean the **Public Safety Committee**: three councilmembers — chair [[Bo Hess]], Vice Mayor Antanette Mosley, Sheneika Smith — meeting remotely, roughly every other month. We reviewed every recorded meeting from the committee's May 2025 relaunch through July 2026. This page is what the recordings show. (All timestamps are from the city's own meeting streams; captions are unlabeled, so attributions follow the meeting context.)
+When Asheville officials answer surveillance concerns with "there's oversight," they mean the **Public Safety Committee**: three councilmembers — chair [[Bo Hess]], Vice Mayor Antanette Mosley, Sheneika Smith — meeting remotely, roughly every other month. I reviewed every recorded meeting from the committee's May 2025 relaunch through July 2026. This page is what the recordings show. (All timestamps are from the city's own meeting streams; captions are unlabeled, so attributions follow the meeting context.)
 
 ## The one meeting that mattered has no recording
 

@@ -3,7 +3,7 @@ title: Jimmy Wingo
 description: APD's civilian Law Enforcement Technology Manager — the single approval gate for outside-agency data requests, the man who explained the Ring-camera integration tiers, and the voice of every "the audits are fine" assurance.
 ---
 
-**Title:** Law Enforcement Technology Manager, Asheville Police Department — per the most recent WLOS rendering; outlets have also styled him "Law Enforcement Technology Specialist" (April 2025) and "Technology Supervisor" (August 2026). No press coverage assigns him a sworn rank or calls him an officer; whether the position is formally civilian or sworn is **not published anywhere we can find** — itself a [[Records Center|records question]] for a role this consequential.
+**Title:** Law Enforcement Technology Manager, Asheville Police Department — per the most recent WLOS rendering; outlets have also styled him "Law Enforcement Technology Specialist" (April 2025) and "Technology Supervisor" (August 2026). No press coverage assigns him a sworn rank or calls him an officer; whether the position is formally civilian or sworn is **not published anywhere I can find** — itself a [[Records Center|records question]] for a role this consequential.
 **In this role since:** unpublished (earliest press appearance: April 2025)
 **Current term ends:** — (not elected; serves as city staff)
 **Next voter decision:** never directly — accountability runs through the [[D.K. Wesley|city manager]], the chief, and [[Election 2026|the council elections]]

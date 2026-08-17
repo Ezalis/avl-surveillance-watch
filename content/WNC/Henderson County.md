@@ -36,6 +36,6 @@ Henderson County is the region's most active live fight.
 
 No renewal date is public and no vote is scheduled — so the levers are the **annual budget** (the sheriff's line item), the petition's growth curve, and the [[How Cities Won|Macon precedent]] one ridge west: same kind of county, unanimous removal, driven by constituent volume. The [[Election 2026|NC-11 candidate Jennifer Balkcom]] is from Henderson County and has never been asked about her home county's petition.
 
-**Video:** commissioners stream on **Vimeo** (no auto-captions — the one WNC body our transcript pipeline can't cheaply cover); [Hendersonville City Council is on YouTube](https://www.youtube.com/channel/UCT4upsJqDADQjBsBBUd19TA). Best press: the Hendersonville Lightning.
+**Video:** commissioners stream on **Vimeo** (no auto-captions — the one WNC body my transcript pipeline can't cheaply cover); [Hendersonville City Council is on YouTube](https://www.youtube.com/channel/UCT4upsJqDADQjBsBBUd19TA). Best press: the Hendersonville Lightning.
 
 *Related: [[WNC and NC]] · [[Getting Flock Out]] · [[How Cities Won]]*

@@ -35,6 +35,6 @@ Put the three records together:
 
 The conclusion isn't rhetorical, it's arithmetic: **a surveillance system whose safety depends on oversight, deployed in a jurisdiction where effective oversight is legally impossible and historically refused, is unsafe by construction.** The honest policy choices are the ones oversight doesn't have to save: don't deploy, don't renew, and strip out the capabilities (500-mile sharing, private-camera integration) that no local safeguard can contain. That's the case to make at [[Speak at Council]], to every [[Election 2026|candidate]], and at every contract-renewal decision between now and 2033.
 
-*A note on labels: quotes and dates above are from public records and named reporting; where an assessment comes from advocacy or opinion journalism rather than documents, we've linked the source so you can weigh it yourself.*
+*A note on labels: quotes and dates above are from public records and named reporting; where an assessment comes from advocacy or opinion journalism rather than documents, I've linked the source so you can weigh it yourself.*
 
 *Related: [[The Abuse Record]] · [[Promise Tracker]] · [[The Check-In Meetings]] · [[Timeline]]*

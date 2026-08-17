@@ -29,7 +29,7 @@ Asheville is this collection's home case, documented across forty-plus pages. Th
 
 ## Links of note
 
-- [The full site index](https://ezalis.github.io/avl-surveillance-watch) — this collection's Start Here
+- [[Browse Everything|The full site index]] — every page, grouped
 - [APD Policy 505](https://public.powerdms.com/ASHV/documents/3369604) — the revisable-without-a-vote policy holding every safeguard
 - [CAMS](https://camsavl.org) — Communities Against Mass Surveillance, the local organizing hub
 - [GAP-AVL's RTIC analysis](https://gapavl.org/asheville-should-reject-the-proposed-rtic-axon-surveillance-expansion-until-real-oversight-and-accountability-exist/) — the pre-vote accountability case

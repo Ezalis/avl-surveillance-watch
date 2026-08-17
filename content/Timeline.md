@@ -3,7 +3,7 @@ title: Timeline
 description: How Asheville got a Real-Time Intelligence Center — every vote, dollar, and maneuver, dated and sourced.
 ---
 
-This is the spine of the record. Each entry links its sources. Where accounts conflict, we say so.
+This is the spine of the record. Each entry links its sources. Where accounts conflict, I say so.
 
 ## The county builds it first (2022–2023)
 

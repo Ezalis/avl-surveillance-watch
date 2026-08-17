@@ -3,7 +3,7 @@ title: Election 2026
 description: Where every local candidate stands on the surveillance buildout — vote by vote, quote by quote, silence by silence.
 ---
 
-The people who approved the RTIC are on this November's ballot. So is the sheriff who built the county network it plugs into. This page tracks what every candidate has said and done — and documents the silence, dated, where they've said nothing. If a candidate goes on record after our last update, [[Get Involved|tell us]] with a link or recording.
+The people who approved the RTIC are on this November's ballot. So is the sheriff who built the county network it plugs into. This page tracks what every candidate has said and done — and documents the silence, dated, where they've said nothing. If a candidate goes on record after my last update, [[Get Involved|tell me]] with a link or recording.
 
 **Dates that matter:** register by **Oct 9** (same-day registration available during early voting) · early voting **Oct 15–31** · Election Day **Tuesday, Nov 3**. ([NC State Board of Elections](https://www.ncsbe.gov/voting/upcoming-election)) Asheville's municipal races moved to even years; the primary already happened March 3.
 
@@ -48,4 +48,4 @@ No moderator is going to ask. Voters can — at forums, by email, at the door. T
 1. *"Would you vote for an ordinance requiring council approval and annual public reporting for all surveillance technology — yes or no?"* (This is [CCOPS](https://www.aclu.org/community-control-over-police-surveillance), adopted in ~26 US cities.)
 2. *"The final Axon contract wasn't public before the May 12 vote. Will you commit to releasing it and the RTIC's quarterly audits?"*
 
-Get an answer? Send it with a link, date, and context via [[Get Involved]] and we'll add it here — favorable or not. That's the deal that keeps this page trustworthy.
+Get an answer? Send it with a link, date, and context via [[Get Involved]] and I'll add it here — favorable or not. That's the deal that keeps this page trustworthy.
