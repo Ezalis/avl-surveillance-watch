@@ -41,7 +41,16 @@ The swap's implicit pitch — "Axon is the responsible vendor" — doesn't survi
 - Its **Draft One** AI report-writer is, per EFF's investigation, "designed to defy transparency" — it erases the AI's draft on export so no one can audit what the machine wrote versus the officer. ([EFF](https://www.eff.org/deeplinks/2025/07/axons-draft-one-designed-defy-transparency))
 - Syracuse made the same swap; local critics' verdict months later: it "solved nothing." ([CNY Central](https://cnycentral.com/news/local/months-after-syracuse-ditched-flock-critics-say-switch-to-axon-solved-nothing)) ACLU-Wisconsin's Jon McCray Jones on vendor swaps generally: "Replacing Flock with another automated license plate reader company like Motorola Solutions or Axon doesn't solve the underlying problem" — communities end up "playing a game of Whack-A-Mole with surveillance companies." ([ACLU-WI](https://www.aclu-wi.org/news/the-surveillance-state-isnt-inevitable-wisconsin-is-winning-against-flock/))
 
-**The Denver floor:** when Denver made this same swap, its council held the Axon deal to a **1-year term, a 50-camera cap, 21-day retention, no vendor-run national database, and per-query audit trails**. Asheville signed **7.5 years**, sight unseen. Whatever the released contract says, Denver's terms are the measuring stick — and any future *fixed* Axon ALPR deployment (Outpost/Lightpost) should require its own council vote, not ride the omnibus.
+**The Denver floor — and what Asheville's baseline actually says.** When Denver made this same swap, its council held the Axon deal to a **1-year term, a 50-camera cap, 21-day retention, no vendor-run national database, and per-query audit trails**. Asheville signed **7.5 years, sight unseen** — and we now have the default terms it rides on: the [Sourcewell cooperative contract #101223-AXN](https://www.sourcewell-mn.gov/cooperative-purchasing/101223-AXN) and its embedded [Axon Master Services Agreement](https://files.sourcewell.org/public/Shared%20Documents/Solicitations/10765/00005124/Contract%20Documents/Axon%20Contract%20101223.pdf). Absent Asheville-negotiated riders, the baseline provides:
+
+- **Subscriptions auto-renew for an additional five years** at end of term — 2034 quietly becomes 2039;
+- "Payment obligations are **non-cancelable**"; all sales final; **no termination for convenience** — exit only for Axon's breach or budget non-appropriation, and early exit triggers a **clawback invoice** for the difference between bundle discounts and full MSRP;
+- **Fixed ALPR cameras (Axon Outpost and Lightpost) are already authorized** under the contract's ALPR amendment — replacing Flock's poles with Axon's would require **no new procurement and no council vote** under current rules;
+- Axon's **default program using agency data for product improvement** (revocable, but on by default);
+- **Facial recognition: silent** — neither authorized nor prohibited in 112 pages;
+- **Pricing declared confidential**, with the agency required to notify Axon before any public-records disclosure — the contract resists its own transparency.
+
+Every Denver protection would have to exist as an Asheville-specific rider. Whether any does is exactly what the unreleased contract would show — see [[Promise Tracker]] row 12: **its promised public release did not happen.**
 
 ## The asks, ready to carry
 
