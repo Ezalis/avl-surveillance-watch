@@ -48,6 +48,7 @@ That's how mass surveillance came to Asheville: not through public debate, but a
 
 ## Act
 
+- **[[Records Center]]** — Twelve pre-written public records requests that would answer this site's open questions. Copy, paste, file. Refusals are answers too.
 - **[[Election 2026]]** — Where every candidate stands — including the ones staying silent. Early voting starts **Oct 15**.
 - **[[People/index|People]]** — Profiles of every official and candidate: their votes, their words, their silence.
 - **[[Claims Library]]** — Citable, sourced facts for petitions, letters, op-eds, and arguments with your uncle.
