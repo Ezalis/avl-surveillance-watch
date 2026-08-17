@@ -17,7 +17,15 @@ At the March 25, 2025 council meeting, arguing for the first RTIC funding ([BPR,
 
 He also claimed, same meeting [(37:05)](https://www.youtube.com/live/Bc-VVlvBx0U&t=2225s): "Over 95% of our APD officers are trained in crisis intervention" — the last public figure was 90%, and DOJ's evidence clearinghouse rates CIT "Ineffective" at reducing use of force.
 
-**The full researched counter — no study anywhere has ever measured drones or RTCCs reducing use of force; the false-positive record runs the other way; and his own example city, Durham, rejected ShotSpotter, declined an RTCC, and scaled *unarmed* response instead — is in [[Their Claims vs The Record|Their Claims vs. The Record]].** His committee (next meeting **Sept 24, 11 AM**) is where it lands hardest.
+**The full researched counter — no study anywhere has ever measured drones or RTCCs reducing use of force; the false-positive record runs the other way; and his own example city, Durham, rejected ShotSpotter, declined an RTCC, and scaled *unarmed* response instead — is in [[Their Claims vs The Record|Their Claims vs. The Record]].**
+
+Two more of his on-record claims, from the transcript archive:
+- **The bias claim** (Public Safety Committee, July 31, 2025): license plate readers "would actually eliminate a lot of the bias from officers... they wouldn't be pulling over like profiling." The record cuts against it — LAPD's audit found a [[The Abuse Record|32.3% false-positive rate]] that produces guns-drawn stops of innocent people, and those stops don't fall evenly. Automated suspicion doesn't remove bias; it launders it behind a machine and adds a false-hit rate on top.
+- **The one-camera argument** (Council, May 8, 2026): keeping "that one Flock camera is a strategic public safety move," and removing all of them "puts every single 100,000 residents at risk." This is an argument for preserving the national search account, not a camera — see [[Getting Flock Out]].
+
+## The committee that doesn't
+
+Hess chairs the Public Safety Committee — the body where RTIC oversight is supposed to live. A review of all seven of its recorded meetings (May 2025–July 2026) found **zero**: no audits requested, no post-approval briefings received, and — most tellingly — the **July 29, 2026 meeting, held after the RTIC was operational-bound, contains not one word about RTIC implementation, the Flock wind-down, or the promised quarterly audits.** The only skeptical questions ever raised in that committee came from Mosley (on ICE agreements) and Smith (on profiling and face-vs-plate) — never from its chair. His committee (next meeting **Sept 24, 11 AM**) is where this lands hardest. See [[Oversight Theater]].
 
 ## Why he matters now
 

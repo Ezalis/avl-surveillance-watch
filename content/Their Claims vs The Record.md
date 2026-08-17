@@ -29,6 +29,12 @@ The RTIC was sold with specific, quotable claims. This page holds each one next 
 
 **The record.** The Texas deputy who searched 83,000 cameras for a woman who had an abortion later had the search **reclassified as a "missing person" case** — keyword blocks filter honest descriptions, and abusers stopped writing honest descriptions the moment audits drew attention (the ACLU documented officers coaching each other to launder the reason field). A keyword filter is a spelling test, not a safeguard.
 
+## "Reactive, not predictive"
+
+**The claim.** APD's consistent framing: the RTIC is "a reactive system, it's not predictive police" (Aardema).
+
+**The record.** APD's own former chief told the Public Safety Committee otherwise. In July 2025, Chief Mike Lamb described the department's approach to that committee using the words **"predictive policing" — twice, on the record** — while presenting crime-reduction stats. The "reactive, not predictive" line arrived later, once "predictive policing" had become a public-relations liability. The capability and the intent the department described in 2025 don't vanish because the 2026 script changed. (And the immigration-alert feature in the LPR platform, per APD's own committee testimony, isn't absent — it's **"turned off"**: a toggle, not a wall.)
+
 ## "It's reactive, violent-crime-only, not surveillance"
 
 **The claim.** Aardema: "We have been clear from the get-go that this is a reactive system, it's not predictive police and the primary focus is going to be on violent crime." Stepp: "We're not going to just randomly surveil or monitor people."
