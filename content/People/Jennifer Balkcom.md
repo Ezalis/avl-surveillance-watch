@@ -3,7 +3,10 @@ title: Jennifer Balkcom
 description: Republican replacement nominee for NC-11 after Chuck Edwards' withdrawal. No surveillance record found.
 ---
 
-**Candidate for US House, NC-11, Nov 2026** · Republican · NC state representative (Henderson County) · selected by the NC-11 GOP executive committee Aug 10, 2026, after **Chuck Edwards — who earmarked the RTIC's $1.14M — withdrew** over a House Ethics report ([BPR](https://www.bpr.org/politics-government/2026-08-10/state-rep-jennifer-balkcom-to-replace-rep-chuck-edwards-on-nc-11-ballot))
+**Title:** NC State Representative, House District 117 (Henderson County) · Republican nominee for U.S. House NC-11 ([BPR](https://www.bpr.org/politics-government/2026-08-10/state-rep-jennifer-balkcom-to-replace-rep-chuck-edwards-on-nc-11-ballot))
+**In this role since:** January 2023 (elected Nov 2022; re-elected 2024)
+**Current term ends:** —
+**Next voter decision:** **Nov 3, 2026** — NC-11 general vs [[Jamie Ager]]; substituted onto the ballot Aug 10, 2026 by the NC-11 GOP executive committee after **Chuck Edwards — who earmarked the RTIC's $1.14M — withdrew** · [[Election 2026]]
 
 ## Surveillance record
 

@@ -3,7 +3,10 @@ title: Quentin Miller
 description: Buncombe County Sheriff since 2018; built the ~2,000-camera Fusus network the RTIC extends. Seeking a third term.
 ---
 
-**Buncombe County Sheriff** (2018–present) · **seeking a 3rd term, Nov 2026** · Democrat
+**Title:** Buncombe County Sheriff · Democrat
+**In this role since:** December 2018 (elected Nov 2018; re-elected 2022)
+**Current term ends:** December 2026
+**Next voter decision:** **Nov 3, 2026** — seeking a 3rd term vs [[Gary Parris]] (R); had no primary challenger · [[Election 2026]]
 
 ## Surveillance record
 

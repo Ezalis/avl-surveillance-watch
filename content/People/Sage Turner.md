@@ -3,7 +3,10 @@ title: Sage Turner
 description: Voted yes on the RTIC — and is now on record that a condition of her vote, removal of the city's Flock cameras, hasn't been honored. Not on the ballot until 2028.
 ---
 
-**City Council member** (2020–present, term through Dec 2028) · finance & project management background
+**Title:** City Council member · finance & project management background
+**In this role since:** Dec 2020 (elected Nov 2020; re-elected Nov 2024)
+**Current term ends:** Dec 2028
+**Next voter decision:** not on a ballot until Nov 2028 · [[Election 2026]]
 
 ## Surveillance record
 

@@ -3,7 +3,10 @@ title: Sheneika Smith
 description: Council member since 2017; proposed a community forum on the RTIC that never happened. On the November ballot.
 ---
 
-**City Council member** (2017–present) · **seeking re-election, Nov 2026** · Public Safety Committee member
+**Title:** City Council member · Public Safety Committee member
+**In this role since:** Dec 2017 (elected Nov 2017; re-elected 2022; served as Vice Mayor 2020)
+**Current term ends:** Dec 2026
+**Next voter decision:** **Nov 3, 2026** — seeking re-election, having advanced from the March 3 primary with ~6% ([BPR](https://www.bpr.org/2026-03-03/asheville-city-council-primary-all-incumbents-plus-ball-young-and-burroughs-move-forward)) · [[Election 2026]]
 
 ## Surveillance record
 

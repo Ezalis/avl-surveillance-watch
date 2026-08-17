@@ -3,7 +3,10 @@ title: Keith Young
 description: Former council member seeking a return; the only council candidate with any data-privacy language on record.
 ---
 
-**Candidate for City Council, Nov 2026** · former council member · author of Asheville's reparations initiative
+**Title:** Candidate for Asheville City Council · former Asheville City Council member (Dec 2015–Dec 2020) · author of the July 2020 reparations resolution
+**In this role since:** —
+**Current term ends:** —
+**Next voter decision:** **Nov 3, 2026** — City Council general; advanced from the March 3 primary (~6%) · [[Election 2026]]
 
 ## Surveillance record
 

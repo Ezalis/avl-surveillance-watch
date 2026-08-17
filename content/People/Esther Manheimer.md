@@ -3,7 +3,10 @@ title: Esther Manheimer
 description: Mayor since 2013; presided over every stage of the RTIC's approval. Seeking a fourth term in 2026.
 ---
 
-**Mayor** (2013–present; on council since 2009) · attorney, Van Winkle Law Firm · **seeking a 4th term, Nov 2026** · [manheimerformayor.com](https://manheimerformayor.com/)
+**Title:** Mayor, City of Asheville · attorney, Van Winkle Law Firm · [manheimerformayor.com](https://manheimerformayor.com/)
+**In this role since:** Dec 2013 (elected Nov 2013; council member 2009–2013; re-elected mayor 2017 and 2022)
+**Current term ends:** Dec 2026
+**Next voter decision:** **Nov 3, 2026** — seeking a 4th term against [[Kim Roney]]; March 3 primary: Manheimer 42.27%, Roney 33.43%, top two advanced ([BPR](https://www.bpr.org/2026-03-03/asheville-city-council-primary-all-incumbents-plus-ball-young-and-burroughs-move-forward)) · [[Election 2026]]
 
 ## Surveillance record
 

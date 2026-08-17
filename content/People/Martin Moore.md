@@ -1,9 +1,12 @@
 ---
 title: Martin Moore
-description: Incoming Buncombe County DA — the prosecutor who will decide what RTIC evidence looks like in court.
+description: Effectively incoming Buncombe County DA (no Republican filed) — the prosecutor who will decide what RTIC evidence looks like in court.
 ---
 
-**Incoming District Attorney** (won the decisive Democratic primary March 2026; no Republican filed) · current county commissioner · former public defender · will be Buncombe's first Black DA ([BPR](https://www.bpr.org/politics-government/2026-03-06/martin-moore-to-be-buncombe-countys-first-black-district-attorney))
+**Title:** Buncombe County Commissioner, District 2 & commission vice chair · Democratic nominee for District Attorney · attorney, former public defender · on track to be Buncombe's first Black DA ([BPR](https://www.bpr.org/politics-government/2026-03-06/martin-moore-to-be-buncombe-countys-first-black-district-attorney))
+**In this role since:** December 2022 (elected Nov 2022 with 63%)
+**Current term ends:** —
+**Next voter decision:** **Nov 3, 2026** — DA general election; won the March 3 Democratic primary (39.29%, over Booth's 36.03% and Kurdys's 24.7%) and no Republican filed, so the nomination is effectively decisive; would take office as DA January 2027 · [[Election 2026]]
 
 ## Why the DA matters here
 

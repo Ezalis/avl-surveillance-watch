@@ -3,7 +3,10 @@ title: Kim Roney
 description: City council member since 2020; the only vote against every stage of Asheville's surveillance buildout. Running for mayor in 2026.
 ---
 
-**City Council member** (2020–present, term through Dec 2028) · **candidate for Mayor, Nov 2026** · music teacher · [kimroney4asheville.com](https://kimroney4asheville.com/) · [official page](https://www.facebook.com/councilmemberkimroney)
+**Title:** City Council member · music teacher & piano technician · [kimroney4asheville.com](https://kimroney4asheville.com/) · [official page](https://www.facebook.com/councilmemberkimroney)
+**In this role since:** Dec 2020 (elected Nov 2020; re-elected Nov 2024)
+**Current term ends:** Dec 2028
+**Next voter decision:** **Nov 3, 2026** — running for **Mayor** against [[Esther Manheimer]], having advanced from the March 3 primary with 33.43% ([BPR](https://www.bpr.org/2026-03-03/asheville-city-council-primary-all-incumbents-plus-ball-young-and-burroughs-move-forward)); her council seat is not on the 2026 ballot · [[Election 2026]]
 
 ## Surveillance record
 

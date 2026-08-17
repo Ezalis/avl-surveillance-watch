@@ -1,16 +1,56 @@
 ---
 title: People
-description: Profiles of the officials and candidates who decide Asheville's surveillance future — their votes, their words, their silence.
+description: Every official and candidate who decides Asheville's surveillance future — organized by the only deadline that binds them. On November 3, 2026, four of the six RTIC yes votes face the voters.
 ---
 
-Every vote and quote in this site traces to a person. These profiles collect each official's and candidate's full surveillance record in one place — what they voted for, what they said, what they've never answered. Profiles are updated as the record grows; each states its last-updated date.
+Every vote and quote on this site traces to a person, and every person here traces to a date: **the next time voters decide whether they keep deciding.** That's how this page is organized — because titles and promises are revisable, and election day is the one accountability mechanism [[Oversight Theater|no one can water down]].
 
-**Asheville City Council (all seven):** [[Esther Manheimer]] · [[Kim Roney]] · [[Antanette Mosley]] · [[Sheneika Smith]] · [[Maggie Ullman]] · [[Sage Turner]] · [[Bo Hess]]
+The headline: **on November 3, 2026, four of the six councilmembers who voted yes on the RTIC are on the ballot** — the mayor who ran the midnight meeting, and the three members whose seats are up — while the only no vote is running for mayor. So is the sheriff who built the county's ~2,000-camera network. Early voting starts **October 15**. The full ballot view: [[Election 2026]].
 
-**Council challengers on the November ballot:** [[Drew Ball]] · [[Keith Young]] · [[Jeffrey Burroughs]]
+## On the November 3, 2026 ballot
 
-**Buncombe County:** [[Quentin Miller]] (Sheriff) · [[Gary Parris]] (Sheriff challenger) · [[Martin Moore]] (incoming DA)
+**Mayor** — the RTIC's presiding officer vs. its only opponent:
 
-**US House, NC-11:** [[Jamie Ager]] · [[Jennifer Balkcom]]
+| | Role | Since | Surveillance record |
+|---|---|---|---|
+| [[Esther Manheimer]] | Mayor, seeking a 4th term | 2013 | Voted **yes** both RTIC items; ran the May 12 meeting where the vote happened off-mic; the [[The Check-In Meetings\|three-by-three briefings]] happen under her gavel |
+| [[Kim Roney]] | Council member, running for mayor | 2020 | The **only no vote** — every surveillance item since 2023, usually alone; submitted the 29 unanswered questions |
 
-See [[Election 2026]] for the ballot view, and [[Timeline]] for the events these records come from.
+**City Council — three seats, all three incumbents voted yes on the RTIC:**
+
+| | Role | Since | Surveillance record |
+|---|---|---|---|
+| [[Antanette Mosley]] | Council member & Vice Mayor | 2020 (appointed) | **Yes** on the RTIC; asked the one ICE question at committee, accepted the answer |
+| [[Sheneika Smith]] | Council member | 2017 | **Yes** on the RTIC — while asking the dais's best skeptical questions ("a fine line between proactivity and profiling"), then "I kind of feel robbed," then yes |
+| [[Maggie Ullman]] | Council member | 2022 | **Yes** on the RTIC — after asking, unanswered, what happens if the federal government seizes the data |
+| [[Drew Ball]] | County commissioner, running for council | 2024 | Challenger — [[Election 2026\|stance tracking]] |
+| [[Keith Young]] | Former council member (2015–2020), running again | — | Challenger — [[Election 2026\|stance tracking]] |
+| [[Jeffrey Burroughs]] | First-time candidate | — | Challenger — [[Election 2026\|stance tracking]] |
+
+**Buncombe County Sheriff** — the office that built the network Asheville plugged into:
+
+| | Role | Since | Surveillance record |
+|---|---|---|---|
+| [[Quentin Miller]] | Sheriff, seeking a 3rd term | 2018 | Built the ~2,000-camera Fusus network (~1,500 in schools); crime-drop claims his own SBI data undermines |
+| [[Gary Parris]] | Republican nominee | — | Challenger — stance tracking |
+
+**Also on the ballot:** [[Martin Moore]] (county commissioner; effectively incoming District Attorney — no Republican filed); **US House NC-11**: [[Jamie Ager]] (D) vs. [[Jennifer Balkcom]] (R — substituted onto the ballot in August 2026 after **Chuck Edwards, whose earmark funded the RTIC, withdrew** following a House Ethics report); and **three Buncombe school-board seats** (Reynolds, Enka, Erwin districts) — relevant because ~1,500 school cameras feed the sheriff's network with no board vote we can find ([[Buncombe County]]).
+
+## Not on a ballot until November 2028
+
+| | Role | Since | Surveillance record |
+|---|---|---|---|
+| [[Sage Turner]] | Council member | 2020 | **Yes** on the RTIC — now on record that her condition (Flock removal) hasn't been honored |
+| [[Bo Hess]] | Council member; Public Safety Committee chair | 2024 | **Yes** — the RTIC's most vocal advocate, chairing [[The Committee\|the committee that has never overseen it]] |
+
+Two of the six yes votes answer to no one until 2028. Between now and then, their accountability venue is the public record — which is what this site is for.
+
+## Deciding without a ballot
+
+The people running the apparatus day to day were never elected to anything — worth naming, since "trust us" is the operative safeguard:
+
+- **Jackie Stepp** — Interim Police Chief since November 2025 (nine months interim and counting; a permanent pick by the city manager was expected "by the end of September" 2026). Made the 177,000-camera admission, the 19,000-camera claim, and the "not here to sway a vote" presentation. ([[Their Claims vs The Record]])
+- **D.K. Wesley** — City Manager since January 2026. Confirmed on the record that the Axon contract council authorized "[[2026-05-07 Agenda Briefing|does not exist yet]]"; now negotiates and signs it.
+- **Jimmy Wingo** — APD's civilian Law Enforcement Technology Manager: the single approval gate for outside-agency data requests, per APD's own testimony.
+
+*Profiles update as the record grows. See [[Election 2026]] for the ballot view, [[The People Who Showed Up]] for the residents' side of the record, and [[Timeline]] for the events these records come from.*

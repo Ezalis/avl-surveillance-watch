@@ -3,7 +3,10 @@ title: Bo Hess
 description: Council's strongest RTIC advocate; chairs the Public Safety Committee where its oversight now lives. Not on the ballot until 2028.
 ---
 
-**City Council member** (Dec 2024–present, term through Dec 2028) · **chairs the Public Safety Committee** · social worker; council's only Latino member
+**Title:** City Council member · **chairs the Public Safety Committee** · behavioral-health provider/social worker; council's only Latino member
+**In this role since:** Dec 2, 2024 (elected Nov 2024, first term)
+**Current term ends:** Dec 2028
+**Next voter decision:** not on a ballot until Nov 2028 · [[Election 2026]]
 
 ## Surveillance record
 

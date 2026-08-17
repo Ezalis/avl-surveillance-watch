@@ -3,7 +3,10 @@ title: Jeffrey Burroughs
 description: Jeweler and River Arts District Artists president running for council. No public position on the RTIC.
 ---
 
-**Candidate for City Council, Nov 2026** · jeweler · president, River Arts District Artists · [jeffreyforasheville.com](https://jeffreyforasheville.com/)
+**Title:** Candidate for Asheville City Council · jeweler · president, River Arts District Artists' Association · [jeffreyforasheville.com](https://jeffreyforasheville.com/)
+**In this role since:** —
+**Current term ends:** —
+**Next voter decision:** **Nov 3, 2026** — City Council general; advanced from the March 3 primary (7%) · [[Election 2026]]
 
 ## Surveillance record
 

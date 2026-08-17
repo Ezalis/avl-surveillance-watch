@@ -1,9 +1,12 @@
 ---
 title: Maggie Ullman
-description: Council member since 2022; in the majority on the RTIC; led the 2026 primary field. On the November ballot.
+description: Council member since 2022; in the majority on the RTIC; co-led the 2026 primary field. On the November ballot.
 ---
 
-**City Council member** (2022–present) · climate/sustainability professional · chairs the Planning, Economic Development & Environment Committee · **seeking re-election, Nov 2026** (led the March primary at ~16%)
+**Title:** City Council member · climate/sustainability consultant · chairs the Planning, Economic Development & Environment Committee (sometimes appears as Maggie Ullman Berthiaume)
+**In this role since:** Dec 2022 (elected Nov 2022, top vote-getter)
+**Current term ends:** Dec 2026
+**Next voter decision:** **Nov 3, 2026** — seeking re-election, having co-led the March 3 primary field with ~16% ([BPR](https://www.bpr.org/2026-03-03/asheville-city-council-primary-all-incumbents-plus-ball-young-and-burroughs-move-forward)) · [[Election 2026]]
 
 ## Surveillance record
 
