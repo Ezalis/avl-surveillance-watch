@@ -16,6 +16,9 @@ That's how mass surveillance came to Asheville: not through public debate, but a
 - **[[2026-05-12 City Council|The May 12 Vote]]** — Minute-by-minute anatomy of the midnight vote, from the city's own video.
 - **[[The Check-In Meetings]]** — The private three-by-three meetings where council business gets decided before the public ever sees it.
 - **[[What Is the RTIC]]** — Plain-language explainer on what was actually approved.
+- **[[What They Can Actually Learn About You]]** — What a plate scan becomes: your routes, your associations, your name — from court records, audit logs, and APD's own briefings.
+- **[[Who Gets Watched]]** — The lived stakes for immigrant families, people traveling here for reproductive care, and protesters. The promises made to them failed everywhere audits were pulled.
+- **[[Watching the Poor]]** — ~500 cameras already watch Asheville's housing communities. The national record shows exactly what that becomes.
 - **[[Claims Library]]** — Citable, sourced facts for petitions, letters, op-eds, and arguments with your uncle.
 - **[[Documents]]** — The primary sources: official minutes, resolutions, APD policies, released and refused records.
 - **[[Election 2026]]** — Where every candidate stands — including the ones staying silent. Early voting starts **Oct 15**.
@@ -30,8 +33,7 @@ That's how mass surveillance came to Asheville: not through public debate, but a
 - **[[Follow the Money]]** — The BID, the TDA, and the surveillance buildout: three money streams, one downtown coalition, the same 6–1 votes.
 - **[[Getting Flock Out]]** — Why the Axon swap isn't an exit, what "one camera" actually keeps, and the four-part motion that ends it for real.
 - **[[What Axon Contracts Do]]** — What the same paper did to Baltimore, Mesa, Fontana, and Evanston — with twelve sourced talking points.
-- **[[WNC and NC]]** — Now with nine county deep-dive pages, from Macon's win to Brevard's live fight.
-- **[[WNC and NC]]** — Macon County removed its cameras. What our neighbors are doing.
+- **[[WNC and NC]]** — Macon County removed its cameras, Brevard's fight is live: nine county deep-dive pages on what our neighbors are doing.
 - **[[Before You Plug In]]** — For business owners: what integrating your cameras with the police network actually signs you up for.
 - **[[Get Involved]]** — CAMS, Sunshine Labs, SASSI, DeFlockNC, and how to plug in.
 - **[[Sources]]** — Full bibliography.

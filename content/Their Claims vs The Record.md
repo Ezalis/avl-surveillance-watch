@@ -33,7 +33,7 @@ The RTIC was sold with specific, quotable claims. This page holds each one next 
 
 **The claim.** APD's consistent framing: the RTIC is "a reactive system, it's not predictive police" (Aardema).
 
-**The record.** APD's own former chief told the Public Safety Committee otherwise. In July 2025, Chief Mike Lamb described the department's approach to that committee using the words **"predictive policing" — twice, on the record** — while presenting crime-reduction stats. The "reactive, not predictive" line arrived later, once "predictive policing" had become a public-relations liability. The capability and the intent the department described in 2025 don't vanish because the 2026 script changed. (And the immigration-alert feature in the LPR platform, per APD's own committee testimony, isn't absent — it's **"turned off"**: a toggle, not a wall.)
+**The record.** APD's own former chief told the Public Safety Committee otherwise. In July 2025, Chief Mike Lamb described the department's approach to that committee using the words **"predictive policing" — twice, on the record** — while presenting crime-reduction stats. The "reactive, not predictive" line arrived later, once "predictive policing" had become a public-relations liability. The capability and the intent the department described in 2025 don't vanish because the 2026 script changed. (And on immigration: APD's own words to the Public Safety Committee, July 2025 — "APD does not utilize the license plate reader systems at all to alert to immigration violations... **They're turned off.**" Turned off is a toggle, not a wall — the capability sits in the platform, one settings change away.)
 
 ## "It's reactive, violent-crime-only, not surveillance"
 
