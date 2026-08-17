@@ -18,6 +18,12 @@ The numbers that moved them: the sheriff's office was logging **1 to 3 million p
 
 And the part Asheville's council should sit with: **the opposition was led substantially by Republicans.** The Macon County GOP organized against Flock; Republican commission candidate Dylan Castle campaigned against it at public comment. When the most successful anti-surveillance politics in the region is coming from conservative counties, "public safety vs. privacy" isn't a left-right fight — it's a surveilled-versus-surveillers fight, and the surveilled are winning where they organize.
 
+## County deep dives
+
+Full pages, built from meeting records, transparency portals, and local reporting: **[[Buncombe County]]** (the county backbone + the 1,500 school cameras) · **[[Henderson County]]** (the 2,071-signature uprising) · **[[Madison County]]** ("You will not speak on Flock tonight") · **[[Haywood County]]** · **[[Jackson County]]** (1.19M reads/month; WCU's retention violation) · **[[Macon County]]** (the win, and its epilogue) · **[[Transylvania County]]** (Brevard's live decision — Axon's "free cameras" pitch) · **[[McDowell County]]** (the documentation hole) · **[[Rutherford County]]** (the vandalism story; Forest City's audio detection)
+
+Also organizing nearby: **Mountain Indivisible** ([mountainindivisible.org](https://mountainindivisible.org), Spruce Pine) covers Mitchell, Avery, and Yancey counties with its "Flock Corral" resource page — meaning organized opposition now exists in at least six WNC counties.
+
 ## County by county
 
 | Where | Status | Detail |

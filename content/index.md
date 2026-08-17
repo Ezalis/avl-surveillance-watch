@@ -28,6 +28,8 @@ That's how mass surveillance came to Asheville: not through public debate, but a
 - **[[Their Claims vs The Record|Their Claims vs. The Record]]** — Every claim used to sell the RTIC, quoted exactly, answered with the documented record.
 - **[[Follow the Money]]** — The BID, the TDA, and the surveillance buildout: three money streams, one downtown coalition, the same 6–1 votes.
 - **[[Getting Flock Out]]** — Why the Axon swap isn't an exit, what "one camera" actually keeps, and the four-part motion that ends it for real.
+- **[[What Axon Contracts Do]]** — What the same paper did to Baltimore, Mesa, Fontana, and Evanston — with twelve sourced talking points.
+- **[[WNC and NC]]** — Now with nine county deep-dive pages, from Macon's win to Brevard's live fight.
 - **[[WNC and NC]]** — Macon County removed its cameras. What our neighbors are doing.
 - **[[Get Involved]]** — CAMS, Sunshine Labs, SASSI, DeFlockNC, and how to plug in.
 - **[[Sources]]** — Full bibliography.
