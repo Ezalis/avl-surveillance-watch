@@ -13,6 +13,10 @@ Voted yes at every stage of the buildout — the 2023 Fusus interlocal, the 2025
 
 This is the shortest section on this page for a reason: **we could find no substantive public statement from Mosley on the RTIC, Fusus, Flock, or surveillance generally** — not at council, not on the campaign trail, not in any candidate questionnaire (as of Aug 17, 2026). GAP of Asheville reported that constituent advocacy to council members before the vote received no substantive responses.
 
+## The BID seat
+
+Mosley holds the council's **non-voting seat on the board of the Asheville Downtown Improvement District** — the Chamber/Downtown Association-created nonprofit that operates the BID she voted to create (6–1, Roney no). See [[Follow the Money]] for how the BID, the Chamber's camera-registry advocacy, and the RTIC's downtown camera-recruitment program interlock — and why a council member sitting on the operator's board while seeking re-election is itself a question for the campaign.
+
 ## Questions she hasn't answered
 
 As Vice Mayor, a Public Safety Committee member, an attorney, and a candidate: Does she support releasing the executed Axon contract? Publishing the quarterly audits? Making the safeguards binding by ordinance ([[Promise Tracker]])? Voters can ask: antanettemosley@avlcouncil.com, or at any forum — see [[Election 2026]] for the questions that can't be answered with a slogan.

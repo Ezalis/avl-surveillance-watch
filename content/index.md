@@ -23,6 +23,10 @@ That's how mass surveillance came to Asheville: not through public debate, but a
 - **[[Promise Tracker]]** — What APD promised on the record, and whether it holds.
 - **[[The National Wave]]** — 50+ communities have dropped these systems. Why.
 - **[[The Abuse Record]]** — How surveillance abuse actually gets discovered (almost never by the safeguards), including NC's own 2026 cases.
+- **[[How Cities Won]]** — The mechanics behind every documented rollback: what flips officials, what works, what backfires, and Asheville's exit map.
+- **[[Oversight Theater]]** — Thirty-five years of promised police oversight in Asheville, and the powerless versions delivered every time.
+- **[[Their Claims vs The Record|Their Claims vs. The Record]]** — Every claim used to sell the RTIC, quoted exactly, answered with the documented record.
+- **[[Follow the Money]]** — The BID, the TDA, and the surveillance buildout: three money streams, one downtown coalition, the same 6–1 votes.
 - **[[WNC and NC]]** — Macon County removed its cameras. What our neighbors are doing.
 - **[[Get Involved]]** — CAMS, Sunshine Labs, SASSI, DeFlockNC, and how to plug in.
 - **[[Sources]]** — Full bibliography.
