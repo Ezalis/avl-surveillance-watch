@@ -19,9 +19,9 @@ The March primary cut twenty candidates to six. Three are incumbents who **voted
 
 | Candidate | RTIC record | Campaign position |
 |---|---|---|
-| **[[Maggie Ullman]]** (i) | On council for the May 12 approval; Roney the only no (official roll call being confirmed) | No public position found (as of Aug 17, 2026) |
-| **[[Antanette Mosley]]** (i, Vice Mayor) | On council for the May 12 approval; Roney the only no (official roll call being confirmed) | No public position found (as of Aug 17, 2026) |
-| **[[Sheneika Smith]]** (i) | On council for the May 12 approval; in 2025 suggested a community forum on the RTIC that was never held | No public position found (as of Aug 17, 2026) |
+| **[[Maggie Ullman]]** (i) | Voted yes, May 12 (6–1, [[2026-05-12 City Council|confirmed on video]]) | No public position found (as of Aug 17, 2026) |
+| **[[Antanette Mosley]]** (i, Vice Mayor) | Voted yes, May 12 (6–1, [[2026-05-12 City Council|confirmed on video]]) | No public position found (as of Aug 17, 2026) |
+| **[[Sheneika Smith]]** (i) | Voted yes, May 12 (6–1, [[2026-05-12 City Council|confirmed on video]]); in 2025 suggested a community forum on the RTIC that was never held | No public position found (as of Aug 17, 2026) |
 | **[[Drew Ball]]** (county commissioner) | — | No public position found (as of Aug 17, 2026) |
 | **[[Keith Young]]** (former council member) | — | Closest thing to a stance: his [DSA questionnaire](https://avldsa.org/2026-city-council-primary-questionnaire-responses/) calls for a "local firewall" so city government isn't "feeding a pipeline into enforcement through data, technology, or informal collaboration," plus "strong privacy and data minimization rules" and warrant requirements. Never names the RTIC, Fusus, or Flock. |
 | **[[Jeffrey Burroughs]]** | — | No public position found (as of Aug 17, 2026). Platform: Helene recovery, housing, small business. ([site](https://jeffreyforasheville.com/)) |

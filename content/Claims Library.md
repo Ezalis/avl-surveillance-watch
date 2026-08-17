@@ -14,6 +14,8 @@ Every claim here links its evidence. Cite the source, not us — a fact traced t
 - The April 28 "work session" featured **Axon and Flock sales reps presenting to committee, with no public comment allowed**. ([CAMS](https://camsavl.org/rtic-funding-vote/))
 - On May 12, the item was placed at the end of a budget meeting; comment was capped at one hour; **21 signed-up residents were sent home unheard**; the vote came near midnight. Of ~36 who spoke, nearly all opposed. ([BPR](https://www.bpr.org/politics-government/2026-05-13/asheville-council-accepts-police-tech-funding-hears-budget-proposal) · [828NewsNow](https://828newsnow.com/news/228822-asheville-oks-real-time-police-intelligence-center-despite-public-backlash/))
 - The **final Axon contract was not available** for council or public review before the vote. ([GAP](https://gapavl.org/asheville-should-reject-the-proposed-rtic-axon-surveillance-expansion-until-real-oversight-and-accountability-exist/))
+- The B1 motion was made and seconded **before public comment opened** — residents spoke for an hour against a motion already pending. The vote came **six seconds after the last speaker**, off-microphone amid shouting; a council member had to announce "in case you didn't notice, there was just a vote." The Axon contract item then passed by voice vote in **25 seconds**. ([[2026-05-12 City Council|city video, timestamped]])
+- On the night of the vote, searching the city's own council minutes archive and ashevillenc.gov returned **zero results for "Axon," "Fusus," or "RTIC"** — demonstrated on the record by a resident. ([[2026-05-12 City Council|city video, 0:25:56]])
 - Even Asheville Watchdog — not an activist outlet — editorialized that the city **"needs to be more transparent"** about the proposal. ([Asheville Watchdog](https://avlwatchdog.org/opinion-youre-on-camera-whether-you-like-it-or-not-but-asheville-needs-to-be-more-transparent-about-video-surveillance-proposal/))
 
 ## "The scale is out of proportion"
@@ -23,6 +25,13 @@ Every claim here links its evidence. Cite the source, not us — a fact traced t
 - The county network Asheville plugs into includes **~1,500 cameras inside Buncombe County schools**. ([Citizen Times via Yahoo](https://www.yahoo.com/news/2-000-camera-network-feeding-090126108.html))
 - The Axon contract runs **7.5 years — to 2033** — signed unseen. Axon's own investor pitch touts ~25%/year customer spending growth ("Flywheel of Growth"). ([BPR](https://www.bpr.org/politics-government/2026-05-13/asheville-council-accepts-police-tech-funding-hears-budget-proposal))
 - Total known costs: $1.14M federal grant, ~$400K video wall, **$467K software over the contract**, ~$250K operational. ([Asheville Watchdog](https://avlwatchdog.org/opinion-youre-on-camera-whether-you-like-it-or-not-but-asheville-needs-to-be-more-transparent-about-video-surveillance-proposal/))
+
+## "The promises don't hold" (already, locally)
+
+- The city **refused a public records request for APD's Flock audit logs** (July 2025), citing G.S. 20-183.31(b) and the criminal-intelligence exemption — while officials tout the system's "robust audit trail." ([Sunshine Request dispute](https://www.sunshinerequest.com/records_request/july-2025-request-for-city-of-asheville-nc-government-organization-and-network-audit-in-flock-06-01-2024-present-and-list-of-data-sharing-agencies-and-organizations/))
+- APD's transparency page promises Axon and Flock **ALPR dashboards that don't exist** — no links, and the dashboard page 404s (checked Aug 17, 2026). ([APD transparency page](https://www.ashevillenc.gov/department/police/transparency/))
+- APD's [ALPR policy](https://public.powerdms.com/ASHV/documents/3369604) was **revised May 5, 2026 — a week before the vote — and already assigned duties to "the RTIC supervisor"** for a center council hadn't approved yet.
+- The **executed Axon contract has never been released** — Resolution 26-99 authorized the City Manager to sign it; the public has never seen what was signed. ([[Documents]])
 
 ## "The promises don't hold" (the national record)
 

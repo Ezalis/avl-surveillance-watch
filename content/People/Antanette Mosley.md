@@ -7,7 +7,7 @@ description: Vice Mayor; in the majority on the surveillance votes; no public ex
 
 ## Surveillance record
 
-Part of the council majority at every stage of the buildout — the 2023 Fusus interlocal, the 2025 grant votes, and the May 12, 2026 RTIC/Axon approval, where Kim Roney cast the only no. (Reported vote counts vary between 5–1 and 6–1; we are confirming the individual roll call against the official minutes and will update this page.)
+Voted yes at every stage of the buildout — the 2023 Fusus interlocal, the 2025 grant votes, and both RTIC items on May 12, 2026 (each passed 6–1, Roney the sole no — [[2026-05-12 City Council|confirmed on the city's own video]]).
 
 ## In her words
 

@@ -7,7 +7,7 @@ description: Council member since 2022; in the majority on the RTIC; led the 202
 
 ## Surveillance record
 
-Part of the council majority for the May 12, 2026 RTIC/Axon approval (Roney sole no; individual roll call being confirmed against official minutes).
+Voted yes on both RTIC items on May 12, 2026 (each passed 6–1, Roney the sole no — [[2026-05-12 City Council|confirmed on the city's own video]]).
 
 ## In her words
 

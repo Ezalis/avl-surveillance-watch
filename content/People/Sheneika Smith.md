@@ -7,7 +7,7 @@ description: Council member since 2017; proposed a community forum on the RTIC t
 
 ## Surveillance record
 
-Part of the council majority through the buildout, including the May 12, 2026 RTIC/Axon approval (Roney sole no; individual roll call being confirmed against official minutes).
+Voted yes through the buildout, including both RTIC items on May 12, 2026 (each passed 6–1, Roney the sole no — [[2026-05-12 City Council|confirmed on the city's own video]]).
 
 The detail that distinguishes her record: **in March 2025, Smith suggested a community forum on the surveillance hub before proceeding. The forum was never held** — and she voted to proceed anyway, both then and in May 2026. ([CAMS chronology](https://camsavl.org/rtic-funding-vote/)) The gap between the instinct and the follow-through is the most precise question a voter can put to her.
 

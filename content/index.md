@@ -13,8 +13,10 @@ That's how mass surveillance came to Asheville: not through public debate, but a
 
 - **[[Speak at Council]]** — You get 3 minutes. Here's what's been said, what's unanswered, and how the process works. Next meetings: council **Tuesday, Aug 25** · Public Safety Committee **Thursday, Aug 27**.
 - **[[Timeline]]** — What happened, when, with receipts. Start here if you're new.
+- **[[2026-05-12 City Council|The May 12 Vote]]** — Minute-by-minute anatomy of the midnight vote, from the city's own video.
 - **[[What Is the RTIC]]** — Plain-language explainer on what was actually approved.
 - **[[Claims Library]]** — Citable, sourced facts for petitions, letters, op-eds, and arguments with your uncle.
+- **[[Documents]]** — The primary sources: official minutes, resolutions, APD policies, released and refused records.
 - **[[Election 2026]]** — Where every candidate stands — including the ones staying silent. Early voting starts **Oct 15**.
 - **[[People/index|People]]** — Profiles of every official and candidate: their votes, their words, their silence.
 - **[[Promise Tracker]]** — What APD promised on the record, and whether it holds.
