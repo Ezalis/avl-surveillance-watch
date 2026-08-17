@@ -26,6 +26,7 @@ That's how mass surveillance came to Asheville: not through public debate, but a
 - **[[How Cities Won]]** — The mechanics behind every documented rollback: what flips officials, what works, what backfires, and Asheville's exit map.
 - **[[Oversight Theater]]** — Thirty-five years of promised police oversight in Asheville, and the powerless versions delivered every time.
 - **[[Their Claims vs The Record|Their Claims vs. The Record]]** — Every claim used to sell the RTIC, quoted exactly, answered with the documented record.
+- **[[The Flockbook]]** — Flock's leaked council-coaching script, laid beside what Asheville officials actually said. The overlap is the point.
 - **[[Follow the Money]]** — The BID, the TDA, and the surveillance buildout: three money streams, one downtown coalition, the same 6–1 votes.
 - **[[Getting Flock Out]]** — Why the Axon swap isn't an exit, what "one camera" actually keeps, and the four-part motion that ends it for real.
 - **[[What Axon Contracts Do]]** — What the same paper did to Baltimore, Mesa, Fontana, and Evanston — with twelve sourced talking points.
