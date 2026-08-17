@@ -31,6 +31,7 @@ That's how mass surveillance came to Asheville: not through public debate, but a
 - **[[What Axon Contracts Do]]** — What the same paper did to Baltimore, Mesa, Fontana, and Evanston — with twelve sourced talking points.
 - **[[WNC and NC]]** — Now with nine county deep-dive pages, from Macon's win to Brevard's live fight.
 - **[[WNC and NC]]** — Macon County removed its cameras. What our neighbors are doing.
+- **[[Before You Plug In]]** — For business owners: what integrating your cameras with the police network actually signs you up for.
 - **[[Get Involved]]** — CAMS, Sunshine Labs, SASSI, DeFlockNC, and how to plug in.
 - **[[Sources]]** — Full bibliography.
 
